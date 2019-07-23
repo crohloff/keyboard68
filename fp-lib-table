@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name Buttons_Switches_Keyboard)(type KiCad)(uri ${KIPRJMOD}/custom_footprints/Buttons_Switches_Keyboard.pretty)(options "")(descr ""))
+  (lib (name JST_PH_S2B-PH-SM4-TB_LF)(type KiCad)(uri ${KIPRJMOD}/custom_footprints/JST_PH_S2B-PH-SM4-TB_LF.pretty)(options "")(descr ""))
+  (lib (name nrf52840_som)(type KiCad)(uri ${KIPRJMOD}/custom_footprints/nrf52840_som.pretty)(options "")(descr ""))
+  (lib (name USB_C_Receptacle_Amphenol_12401610E4-2A)(type KiCad)(uri ${KIPRJMOD}/custom_footprints/USB_C_Receptacle_Amphenol_12401610E4-2A.pretty)(options "")(descr ""))
+  (lib (name Kailh)(type KiCad)(uri ${KIPRJMOD}/custom_footprints/Kaihl_socket_CPG151101S11/Kailh.pretty)(options "")(descr ""))
+  (lib (name ws2812_inPCB)(type KiCad)(uri ${KIPRJMOD}/custom_footprints/ws2812_inPCB.pretty)(options "")(descr ""))
+  (lib (name mt3608)(type KiCad)(uri ${KIPRJMOD}/custom_footprints/mt3608.pretty)(options "")(descr ""))
+)

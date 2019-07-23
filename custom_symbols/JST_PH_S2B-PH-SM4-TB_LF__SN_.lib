@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# S2B-PH-SM4-TB(LF)(SN)
+#
+DEF S2B-PH-SM4-TB(LF)(SN) J 0 40 Y Y 1 L N
+F0 "J" -200 220 50 H V L BNN
+F1 "S2B-PH-SM4-TB(LF)(SN)" -200 -371 50 H V L BNN
+F2 "JST_S2B-PH-SM4-TB(LF)(SN)" 0 0 50 H I L BNN
+F3 "S2B-PH-SM4-TB_LF__SN_" 0 0 50 H I L BNN
+F4 "https://www.digikey.de/product-detail/en/jst-sales-america-inc/S2B-PH-SM4-TB_LF__SN_/455-1749-1-ND/926846?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol" 0 0 50 H I L BNN
+F5 "455-1749-1-ND" 0 0 50 H I L BNN
+F6 "None" 0 0 50 H I L BNN
+F7 "JST Sales" 0 0 50 H I L BNN
+F8 "PH Series 2 Position 2 mm Pitch Surface Mount Side Entry Shrouded Header" 0 0 50 H I L BNN
+DRAW
+S -200 200 150 -300 0 0 6 f
+X 1 1 -300 100 100 R 40 40 0 0 P
+X 2 2 -300 0 100 R 40 40 0 0 P
+X SHIELD S1 -300 -200 100 R 40 40 0 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library
