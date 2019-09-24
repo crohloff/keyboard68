@@ -475,13 +475,13 @@ Text GLabel 6400 3950 0    50   Input ~ 0
 COLUMN_15
 Text GLabel 7200 2450 1    50   Input ~ 0
 COLUMN_14
-Text GLabel 7900 2450 1    50   Input ~ 0
+Text GLabel 8550 3150 2    50   Input ~ 0
 COLUMN_13
 Text GLabel 8100 2450 1    50   Input ~ 0
 COLUMN_12
 Text GLabel 8550 3750 2    50   Input ~ 0
 COLUMN_11
-Text GLabel 8550 3150 2    50   Input ~ 0
+Text GLabel 7900 2450 1    50   Input ~ 0
 COLUMN_10
 Text GLabel 8550 4450 2    50   Input ~ 0
 COLUMN_9

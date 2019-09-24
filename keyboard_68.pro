@@ -1,4 +1,4 @@
-update=Sa 20 Jul 2019 23:43:54 CEST
+update=Di 24 Sep 2019 23:18:16 CEST
 version=1
 last_client=kicad
 [cvpcb]
@@ -235,8 +235,8 @@ dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/1]
 Name=LED_POWER
-Clearance=0.2
-TrackWidth=0.6
+Clearance=0.3
+TrackWidth=0.5
 ViaDiameter=0.6
 ViaDrill=0.4
 uViaDiameter=0.3
@@ -245,9 +245,9 @@ dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/2]
-Name=VBUS
-Clearance=0.2
-TrackWidth=0.6
+Name=VBAT
+Clearance=0.3
+TrackWidth=0.5
 ViaDiameter=0.6
 ViaDrill=0.4
 uViaDiameter=0.3
@@ -255,3 +255,24 @@ uViaDrill=0.1
 dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
+[pcbnew/Netclasses/3]
+Name=VBUS
+Clearance=0.3
+TrackWidth=0.5
+ViaDiameter=0.6
+ViaDrill=0.4
+uViaDiameter=0.3
+uViaDrill=0.1
+dPairWidth=0.2
+dPairGap=0.25
+dPairViaGap=0.25
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1
