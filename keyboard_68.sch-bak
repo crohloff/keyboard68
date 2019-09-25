@@ -227,7 +227,7 @@ U 1 1 5CEC5EFE
 P 2150 3200
 F 0 "U1" H 2150 3400 50  0000 C CNN
 F 1 "USB_C" H 2150 3200 50  0000 C CNN
-F 2 "Connector_USB:USB_C_Receptacle_Amphenol_12401610E4-2A" H 2150 3800 50  0001 C CNN
+F 2 "USB_C_Receptacle_Amphenol_12401610E4-2A:USB_C_Receptacle_Amphenol_12401610E4-2A" H 2150 3800 50  0001 C CNN
 F 3 "https://www.amphenol-icc.com/media/wysiwyg/files/drawing/12401610e4x2a.pdf" H 2150 3800 50  0001 C CNN
 F 4 " 12401610E4#2ACT-ND " H 2150 3200 50  0001 C CNN "DigiKey"
 	1    2150 3200
