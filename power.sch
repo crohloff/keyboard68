@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:keyboard_68-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -146,9 +147,13 @@ AR Path="/5B44D2A6/61846306" Ref="L?"  Part="1"
 AR Path="/6178D778/61846306" Ref="L1"  Part="1" 
 F 0 "L1" V 2385 900 50  0000 C CNN
 F 1 "22µH" V 2294 900 50  0000 C CNN
-F 2 "Inductor_SMD:L_7.3x7.3_H4.5" H 2200 900 50  0001 C CNN
-F 3 "~" H 2200 900 50  0001 C CNN
-F 4 "C27442" H 2200 900 50  0001 C CNN "LCSC"
+F 2 "L_3x3_H1.5:L_3x3_H1.5" H 2200 900 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/Chilisin-Elec-LVS303015-220M-N_C285838.pdf" H 2200 900 50  0001 C CNN
+F 4 "C285838" H 2200 900 50  0001 C CNN "LCSC"
+F 5 "Power Inductors 22uH ±20% 650mA SMD,3x3x1.5mm" H 2200 900 50  0001 C CNN "Description"
+F 6 "LVS303015-220M-N" H 2200 900 50  0001 C CNN "MPN"
+F 7 "Chilisin Elec" H 2200 900 50  0001 C CNN "Manufacturer"
+F 8 "SPEC" H 2200 900 50  0001 C CNN "Spec"
 	1    2200 900 
 	0    -1   -1   0   
 $EndComp
