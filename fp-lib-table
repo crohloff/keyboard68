@@ -5,4 +5,5 @@
   (lib (name Kailh)(type KiCad)(uri ${KIPRJMOD}/custom_footprints/Kaihl_socket_CPG151101S11/Kailh.pretty)(options "")(descr ""))
   (lib (name ws2812_inPCB)(type KiCad)(uri ${KIPRJMOD}/custom_footprints/ws2812_inPCB.pretty)(options "")(descr ""))
   (lib (name L_3x3_H1.5)(type KiCad)(uri ${KIPRJMOD}/custom_footprints/L_3x3_H1.5.pretty)(options "")(descr ""))
+  (lib (name custom_footprints)(type KiCad)(uri ${KIPRJMOD}/custom_footprints)(options "")(descr ""))
 )
