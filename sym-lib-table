@@ -1,7 +1,7 @@
 (sym_lib_table
   (lib (name nRF52840_som)(type Legacy)(uri ${KIPRJMOD}/custom_symbols/nRF52840_som.lib)(options "")(descr ""))
   (lib (name JST_PH_S2B-PH-SM4-TB_LF__SN_)(type Legacy)(uri ${KIPRJMOD}/custom_symbols/JST_PH_S2B-PH-SM4-TB_LF__SN_.lib)(options "")(descr ""))
-  (lib (name usb_c)(type Legacy)(uri ${KIPRJMOD}/custom_symbols/usb_c.lib)(options "")(descr ""))
   (lib (name usb_type_c)(type Legacy)(uri ${KIPRJMOD}/custom_symbols/usb_type_c.lib)(options "")(descr ""))
   (lib (name mt3608)(type Legacy)(uri ${KIPRJMOD}/custom_symbols/mt3608.lib)(options "")(descr ""))
+  (lib (name nRF52840_module)(type Legacy)(uri ${KIPRJMOD}/custom_symbols/nRF52840_module.lib)(options "")(descr ""))
 )
