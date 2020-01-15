@@ -135,6 +135,7 @@ F 1 "MT3608" H 2200 1300 60  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-23-6" H 2150 1500 60  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/XI-AN-Aerosemi-Tech-MT3608_C84817.pdf" H 2150 1500 60  0001 C CNN
 F 4 "C84817" H 2150 1500 50  0001 C CNN "LCSC"
+F 5 "SPEC" H 2150 1500 50  0001 C CNN "Spec"
 	1    2150 1500
 	1    0    0    -1  
 $EndComp

@@ -15,76 +15,20 @@ Comment4 ""
 $EndDescr
 Text Notes 2650 1100 0    59   ~ 0
 `
-Text Notes 2650 2000 0    39   ~ 0
-Tab
-Text Notes 2650 2900 0    39   ~ 0
-Caps
-Text Notes 2650 3800 0    39   ~ 0
-L_Shift
-Text Notes 3350 2900 0    39   ~ 0
-A
-Text Notes 3350 2000 0    39   ~ 0
-Q
 Text Notes 3350 1100 0    39   ~ 0
 1
 Text Notes 4050 1100 0    39   ~ 0
 2
 Text Notes 4750 1100 0    39   ~ 0
 3
-Text Notes 4750 2000 0    39   ~ 0
-E
-Text Notes 4050 2000 0    39   ~ 0
-W
-Text Notes 4050 2900 0    39   ~ 0
-S
-Text Notes 4750 2900 0    39   ~ 0
-D
-Text Notes 4750 3800 0    39   ~ 0
-C
-Text Notes 4050 3800 0    39   ~ 0
-X
-Text Notes 3350 3800 0    39   ~ 0
-Z
-Text Notes 5450 3800 0    39   ~ 0
-V
-Text Notes 5450 2900 0    39   ~ 0
-F
-Text Notes 6150 3800 0    39   ~ 0
-B
-Text Notes 6850 3800 0    39   ~ 0
-N
-Text Notes 6850 2900 0    39   ~ 0
-H
-Text Notes 6150 2900 0    39   ~ 0
-G
-Text Notes 8250 3800 0    39   ~ 0
-,
-Text Notes 7550 3800 0    39   ~ 0
-M
-Text Notes 7550 2900 0    39   ~ 0
-J
-Text Notes 8250 2900 0    39   ~ 0
-K
-Text Notes 5450 2000 0    39   ~ 0
-R
 Text Notes 5450 1100 0    39   ~ 0
 4
 Text Notes 6150 1100 0    39   ~ 0
 5
-Text Notes 6150 2000 0    39   ~ 0
-T
-Text Notes 6850 2000 0    39   ~ 0
-Y
 Text Notes 6850 1100 0    39   ~ 0
 6
 Text Notes 7550 1100 0    39   ~ 0
 7
-Text Notes 7550 2000 0    39   ~ 0
-U
-Text Notes 8250 2000 0    39   ~ 0
-I
-Text Notes 8250 1100 0    39   ~ 0
-8
 Wire Wire Line
 	3900 1250 3900 1550
 Wire Wire Line
@@ -116,36 +60,21 @@ Wire Wire Line
 Wire Wire Line
 	7400 1550 7250 1550
 Wire Wire Line
-	8800 1250 8800 1550
-Wire Wire Line
-	8800 1550 8650 1550
-Wire Wire Line
 	2600 1000 2600 1250
 Wire Wire Line
 	3300 1000 3300 1250
-Connection ~ 2600 1000
 Wire Wire Line
 	4000 1000 4000 1250
-Connection ~ 3300 1000
 Wire Wire Line
 	4700 1000 4700 1250
-Connection ~ 4000 1000
 Wire Wire Line
 	5400 1000 5400 1250
-Connection ~ 4700 1000
 Wire Wire Line
 	6100 1000 6100 1250
-Connection ~ 5400 1000
 Wire Wire Line
 	6800 1000 6800 1250
-Connection ~ 6100 1000
 Wire Wire Line
 	7500 1000 7500 1250
-Connection ~ 6800 1000
-Wire Wire Line
-	8200 1000 8200 1250
-Connection ~ 7500 1000
-Connection ~ 8200 1000
 Wire Wire Line
 	3250 1550 3550 1550
 Wire Wire Line
@@ -160,907 +89,6 @@ Wire Wire Line
 	6750 1550 7050 1550
 Wire Wire Line
 	7450 1550 7750 1550
-Wire Wire Line
-	8150 1550 8450 1550
-Wire Wire Line
-	3900 2150 3900 2450
-Wire Wire Line
-	3900 2450 3750 2450
-Wire Wire Line
-	3200 2150 3200 2450
-Wire Wire Line
-	3200 2450 3050 2450
-Wire Wire Line
-	5300 2150 5300 2450
-Wire Wire Line
-	5300 2450 5150 2450
-Wire Wire Line
-	4600 2150 4600 2450
-Wire Wire Line
-	4600 2450 4450 2450
-Wire Wire Line
-	6700 2150 6700 2450
-Wire Wire Line
-	6700 2450 6550 2450
-Wire Wire Line
-	6000 2150 6000 2450
-Wire Wire Line
-	6000 2450 5850 2450
-Wire Wire Line
-	8100 2150 8100 2450
-Wire Wire Line
-	8100 2450 7950 2450
-Wire Wire Line
-	7400 2150 7400 2450
-Wire Wire Line
-	7400 2450 7250 2450
-Wire Wire Line
-	8800 2150 8800 2450
-Wire Wire Line
-	8800 2450 8650 2450
-Wire Wire Line
-	2600 1900 2600 2150
-Wire Wire Line
-	3300 1900 3300 2150
-Connection ~ 2600 1900
-Wire Wire Line
-	4000 1900 4000 2150
-Connection ~ 3300 1900
-Wire Wire Line
-	4700 1900 4700 2150
-Connection ~ 4000 1900
-Wire Wire Line
-	5400 1900 5400 2150
-Connection ~ 4700 1900
-Wire Wire Line
-	6100 1900 6100 2150
-Connection ~ 5400 1900
-Wire Wire Line
-	6800 1900 6800 2150
-Connection ~ 6100 1900
-Wire Wire Line
-	7500 1900 7500 2150
-Connection ~ 6800 1900
-Wire Wire Line
-	8200 1900 8200 2150
-Connection ~ 7500 1900
-Connection ~ 8200 1900
-Wire Wire Line
-	2850 2450 2550 2450
-Wire Wire Line
-	3250 2450 3550 2450
-Wire Wire Line
-	3950 2450 4250 2450
-Wire Wire Line
-	4650 2450 4950 2450
-Wire Wire Line
-	5350 2450 5650 2450
-Wire Wire Line
-	6050 2450 6350 2450
-Wire Wire Line
-	6750 2450 7050 2450
-Wire Wire Line
-	7450 2450 7750 2450
-Wire Wire Line
-	8150 2450 8450 2450
-Wire Wire Line
-	3900 3050 3900 3350
-Wire Wire Line
-	3200 3050 3200 3350
-Wire Wire Line
-	3200 3350 3050 3350
-Wire Wire Line
-	5300 3050 5300 3350
-Wire Wire Line
-	5300 3350 5150 3350
-Wire Wire Line
-	4600 3050 4600 3350
-Wire Wire Line
-	4600 3350 4450 3350
-Wire Wire Line
-	6700 3050 6700 3350
-Wire Wire Line
-	6700 3350 6550 3350
-Wire Wire Line
-	6000 3050 6000 3350
-Wire Wire Line
-	6000 3350 5850 3350
-Wire Wire Line
-	8100 3050 8100 3350
-Wire Wire Line
-	8100 3350 7950 3350
-Wire Wire Line
-	7400 3050 7400 3350
-Wire Wire Line
-	7400 3350 7250 3350
-Wire Wire Line
-	8800 3050 8800 3350
-Wire Wire Line
-	8800 3350 8650 3350
-Wire Wire Line
-	2600 2800 2600 3050
-Wire Wire Line
-	3300 2800 3300 3050
-Connection ~ 2600 2800
-Wire Wire Line
-	4000 2800 4000 3050
-Connection ~ 3300 2800
-Wire Wire Line
-	4700 2800 4700 3050
-Connection ~ 4000 2800
-Wire Wire Line
-	5400 2800 5400 3050
-Connection ~ 4700 2800
-Wire Wire Line
-	6100 2800 6100 3050
-Connection ~ 5400 2800
-Wire Wire Line
-	6800 2800 6800 3050
-Connection ~ 6100 2800
-Wire Wire Line
-	7500 2800 7500 3050
-Connection ~ 6800 2800
-Wire Wire Line
-	8200 2800 8200 3050
-Connection ~ 7500 2800
-Connection ~ 8200 2800
-Wire Wire Line
-	2550 3350 2850 3350
-Wire Wire Line
-	3250 3350 3550 3350
-Wire Wire Line
-	3950 3350 4250 3350
-Wire Wire Line
-	4650 3350 4950 3350
-Wire Wire Line
-	5350 3350 5650 3350
-Wire Wire Line
-	6050 3350 6350 3350
-Wire Wire Line
-	6750 3350 7050 3350
-Wire Wire Line
-	7450 3350 7750 3350
-Wire Wire Line
-	8150 3350 8450 3350
-Wire Wire Line
-	3900 3950 3900 4250
-Wire Wire Line
-	3900 4250 3750 4250
-Wire Wire Line
-	3200 3950 3200 4250
-Wire Wire Line
-	3200 4250 3050 4250
-Wire Wire Line
-	5300 3950 5300 4250
-Wire Wire Line
-	5300 4250 5150 4250
-Wire Wire Line
-	4600 3950 4600 4250
-Wire Wire Line
-	4600 4250 4450 4250
-Wire Wire Line
-	6700 3950 6700 4250
-Wire Wire Line
-	6700 4250 6550 4250
-Wire Wire Line
-	6000 3950 6000 4250
-Wire Wire Line
-	6000 4250 5850 4250
-Wire Wire Line
-	8100 3950 8100 4250
-Wire Wire Line
-	8100 4250 7950 4250
-Wire Wire Line
-	7400 3950 7400 4250
-Wire Wire Line
-	7400 4250 7250 4250
-Wire Wire Line
-	8800 3950 8800 4250
-Wire Wire Line
-	8800 4250 8650 4250
-Wire Wire Line
-	2600 3700 2600 3950
-Wire Wire Line
-	3300 3700 3300 3950
-Connection ~ 2600 3700
-Wire Wire Line
-	4000 3700 4000 3950
-Connection ~ 3300 3700
-Wire Wire Line
-	4700 3700 4700 3950
-Connection ~ 4000 3700
-Wire Wire Line
-	5400 3700 5400 3950
-Connection ~ 4700 3700
-Wire Wire Line
-	6100 3700 6100 3950
-Connection ~ 5400 3700
-Wire Wire Line
-	6800 3700 6800 3950
-Connection ~ 6100 3700
-Wire Wire Line
-	7500 3700 7500 3950
-Connection ~ 6800 3700
-Wire Wire Line
-	8200 3700 8200 3950
-Connection ~ 7500 3700
-Connection ~ 8200 3700
-Wire Wire Line
-	2550 4250 2850 4250
-Wire Wire Line
-	3950 4250 4250 4250
-Wire Wire Line
-	4650 4250 4950 4250
-Wire Wire Line
-	5350 4250 5650 4250
-Wire Wire Line
-	6050 4250 6350 4250
-Wire Wire Line
-	6750 4250 7050 4250
-Wire Wire Line
-	8150 4250 8450 4250
-Connection ~ 2550 2450
-Connection ~ 2550 3350
-Connection ~ 2550 4250
-Connection ~ 3250 2450
-Connection ~ 3250 3350
-Connection ~ 3250 4250
-Connection ~ 3950 2450
-Connection ~ 3950 3350
-Connection ~ 3950 4250
-Connection ~ 4650 2450
-Connection ~ 4650 3350
-Connection ~ 4650 4250
-Connection ~ 5350 2450
-Connection ~ 5350 3350
-Connection ~ 5350 4250
-Connection ~ 6050 2450
-Connection ~ 6050 3350
-Connection ~ 6050 4250
-Connection ~ 6750 2450
-Connection ~ 6750 3350
-Connection ~ 6750 4250
-Connection ~ 7450 4250
-Connection ~ 8150 4250
-Connection ~ 7450 3350
-Connection ~ 7450 2450
-Connection ~ 8150 3350
-Connection ~ 8150 2450
-Connection ~ 3950 5150
-Connection ~ 3250 5150
-Connection ~ 2550 5150
-Wire Wire Line
-	4650 5150 4950 5150
-Wire Wire Line
-	3950 5150 4250 5150
-Wire Wire Line
-	3250 5150 3550 5150
-Wire Wire Line
-	2550 5150 2850 5150
-Wire Wire Line
-	4700 4600 4700 4850
-Connection ~ 4000 4600
-Connection ~ 3300 4600
-Wire Wire Line
-	4000 4600 4000 4850
-Connection ~ 2600 4600
-Wire Wire Line
-	3300 4600 3300 4850
-Wire Wire Line
-	2600 4600 2600 4850
-Wire Wire Line
-	5300 5150 5150 5150
-Wire Wire Line
-	5300 4850 5300 5150
-Wire Wire Line
-	4600 5150 4450 5150
-Wire Wire Line
-	4600 4850 4600 5150
-Wire Wire Line
-	3200 5150 3050 5150
-Wire Wire Line
-	3200 4850 3200 5150
-Wire Wire Line
-	3900 5150 3750 5150
-Wire Wire Line
-	3900 4850 3900 5150
-Text Notes 4750 4700 0    39   ~ 0
-Space
-Text Notes 4050 4700 0    39   ~ 0
-L_Alt
-Text Notes 2650 4700 0    39   ~ 0
-L_Ctrl
-Text Notes 3350 4700 0    39   ~ 0
-Mod
-Wire Wire Line
-	8150 1550 8150 2450
-Wire Wire Line
-	7450 1550 7450 2450
-Wire Wire Line
-	6750 1550 6750 2450
-Wire Wire Line
-	6050 1550 6050 2450
-Wire Wire Line
-	5350 1550 5350 2450
-Wire Wire Line
-	4650 1550 4650 2450
-Wire Wire Line
-	3950 1550 3950 2450
-Wire Wire Line
-	3250 1550 3250 2450
-Wire Wire Line
-	2550 1550 2550 2450
-Wire Wire Line
-	8850 1550 8850 2450
-Connection ~ 8850 2450
-Connection ~ 8850 4250
-Connection ~ 8850 3350
-Connection ~ 8900 3700
-Wire Wire Line
-	8900 3700 8900 3950
-Connection ~ 8900 2800
-Wire Wire Line
-	8900 2800 8900 3050
-Wire Wire Line
-	8900 1900 8900 2150
-Connection ~ 8900 1900
-Connection ~ 8900 1000
-Wire Wire Line
-	8900 1000 8900 1250
-Wire Wire Line
-	850  2800 2600 2800
-Connection ~ 13050 2450
-Wire Wire Line
-	13050 1550 13050 2450
-Connection ~ 12350 2450
-Connection ~ 11650 2450
-Connection ~ 10950 2450
-Connection ~ 10250 2450
-Connection ~ 10250 3350
-Connection ~ 9550 2450
-Connection ~ 9550 3350
-Connection ~ 9550 4250
-Wire Wire Line
-	12350 1550 12350 2450
-Wire Wire Line
-	11650 1550 11650 2450
-Wire Wire Line
-	10950 1550 10950 2450
-Wire Wire Line
-	10250 1550 10250 2450
-Wire Wire Line
-	9550 1550 9550 2450
-Wire Wire Line
-	8850 5150 9150 5150
-Wire Wire Line
-	8150 5150 8450 5150
-Wire Wire Line
-	7450 5150 7750 5150
-Wire Wire Line
-	6750 5150 7050 5150
-Wire Wire Line
-	6050 5150 6350 5150
-Wire Wire Line
-	5350 5150 5650 5150
-Wire Wire Line
-	8900 4600 8900 4850
-Wire Wire Line
-	8200 4600 8200 4850
-Wire Wire Line
-	7500 4600 7500 4850
-Wire Wire Line
-	6800 4600 6800 4850
-Wire Wire Line
-	6100 4600 6100 4850
-Wire Wire Line
-	5400 4600 5400 4850
-Wire Wire Line
-	850  4600 2600 4600
-Wire Wire Line
-	8800 5150 8650 5150
-Wire Wire Line
-	9500 5150 9350 5150
-Wire Wire Line
-	9500 4850 9500 5150
-Wire Wire Line
-	7400 5150 7250 5150
-Wire Wire Line
-	7400 4850 7400 5150
-Wire Wire Line
-	8100 5150 7950 5150
-Wire Wire Line
-	8100 4850 8100 5150
-Wire Wire Line
-	6000 5150 5850 5150
-Wire Wire Line
-	6000 4850 6000 5150
-Wire Wire Line
-	6700 5150 6550 5150
-Wire Wire Line
-	6700 4850 6700 5150
-Wire Wire Line
-	10950 4250 11250 4250
-Wire Wire Line
-	9550 4250 9850 4250
-Wire Wire Line
-	8850 4250 9150 4250
-Wire Wire Line
-	11000 3700 11000 3950
-Wire Wire Line
-	10300 3700 10300 3950
-Connection ~ 9600 3700
-Wire Wire Line
-	9600 3700 9600 3950
-Wire Wire Line
-	850  3700 2600 3700
-Wire Wire Line
-	11600 4250 11450 4250
-Wire Wire Line
-	11600 3950 11600 4250
-Wire Wire Line
-	10900 4250 10750 4250
-Wire Wire Line
-	10900 3950 10900 4250
-Wire Wire Line
-	10200 4250 10050 4250
-Wire Wire Line
-	10200 3950 10200 4250
-Wire Wire Line
-	9500 4250 9350 4250
-Wire Wire Line
-	9500 3950 9500 4250
-Wire Wire Line
-	10950 3350 11250 3350
-Wire Wire Line
-	10250 3350 10550 3350
-Wire Wire Line
-	9550 3350 9850 3350
-Wire Wire Line
-	8850 3350 9150 3350
-Wire Wire Line
-	11000 2800 11000 3050
-Connection ~ 10300 2800
-Connection ~ 9600 2800
-Wire Wire Line
-	10300 2800 10300 3050
-Wire Wire Line
-	9600 2800 9600 3050
-Wire Wire Line
-	11600 3350 11450 3350
-Wire Wire Line
-	11600 3050 11600 3350
-Wire Wire Line
-	10200 3350 10050 3350
-Wire Wire Line
-	10200 3050 10200 3350
-Wire Wire Line
-	10900 3350 10750 3350
-Wire Wire Line
-	10900 3050 10900 3350
-Wire Wire Line
-	9500 3350 9350 3350
-Wire Wire Line
-	9500 3050 9500 3350
-Wire Wire Line
-	13050 2450 13350 2450
-Wire Wire Line
-	12350 2450 12650 2450
-Wire Wire Line
-	11650 2450 11950 2450
-Wire Wire Line
-	10950 2450 11250 2450
-Wire Wire Line
-	10250 2450 10550 2450
-Wire Wire Line
-	9550 2450 9850 2450
-Wire Wire Line
-	8850 2450 9150 2450
-Connection ~ 12400 1900
-Wire Wire Line
-	13100 1900 13100 2150
-Connection ~ 11700 1900
-Wire Wire Line
-	12400 1900 12400 2150
-Connection ~ 11000 1900
-Wire Wire Line
-	11700 1900 11700 2150
-Connection ~ 10300 1900
-Wire Wire Line
-	11000 1900 11000 2150
-Connection ~ 9600 1900
-Wire Wire Line
-	10300 1900 10300 2150
-Wire Wire Line
-	9600 1900 9600 2150
-Wire Wire Line
-	850  1900 2600 1900
-Wire Wire Line
-	13000 2450 12850 2450
-Wire Wire Line
-	13000 2150 13000 2450
-Wire Wire Line
-	13700 2450 13550 2450
-Wire Wire Line
-	13700 2150 13700 2450
-Wire Wire Line
-	11600 2450 11450 2450
-Wire Wire Line
-	11600 2150 11600 2450
-Wire Wire Line
-	12300 2450 12150 2450
-Wire Wire Line
-	12300 2150 12300 2450
-Wire Wire Line
-	10200 2450 10050 2450
-Wire Wire Line
-	10200 2150 10200 2450
-Wire Wire Line
-	10900 2450 10750 2450
-Wire Wire Line
-	10900 2150 10900 2450
-Wire Wire Line
-	9500 2450 9350 2450
-Wire Wire Line
-	9500 2150 9500 2450
-Wire Wire Line
-	13050 1550 13350 1550
-Wire Wire Line
-	12350 1550 12650 1550
-Wire Wire Line
-	11650 1550 11950 1550
-Wire Wire Line
-	10950 1550 11250 1550
-Wire Wire Line
-	10250 1550 10550 1550
-Wire Wire Line
-	9550 1550 9850 1550
-Wire Wire Line
-	8850 1550 9150 1550
-Connection ~ 12400 1000
-Wire Wire Line
-	13100 1000 13100 1250
-Connection ~ 11700 1000
-Wire Wire Line
-	12400 1000 12400 1250
-Connection ~ 11000 1000
-Wire Wire Line
-	11700 1000 11700 1250
-Connection ~ 10300 1000
-Wire Wire Line
-	11000 1000 11000 1250
-Connection ~ 9600 1000
-Wire Wire Line
-	10300 1000 10300 1250
-Wire Wire Line
-	9600 1000 9600 1250
-Wire Wire Line
-	850  1000 2600 1000
-Wire Wire Line
-	13000 1550 12850 1550
-Wire Wire Line
-	13000 1250 13000 1550
-Wire Wire Line
-	13700 1550 13550 1550
-Wire Wire Line
-	13700 1250 13700 1550
-Wire Wire Line
-	11600 1250 11600 1550
-Wire Wire Line
-	12300 1550 12150 1550
-Wire Wire Line
-	12300 1250 12300 1550
-Wire Wire Line
-	10200 1550 10050 1550
-Wire Wire Line
-	10200 1250 10200 1550
-Wire Wire Line
-	10900 1550 10750 1550
-Wire Wire Line
-	10900 1250 10900 1550
-Wire Wire Line
-	9500 1550 9350 1550
-Wire Wire Line
-	9500 1250 9500 1550
-Text Notes 7550 4700 0    39   ~ 0
-L_Arrow
-Text Notes 8250 4700 0    39   ~ 0
-D_Arrow
-Text Notes 8950 4700 0    39   ~ 0
-R_Arrow
-Text Notes 11050 2900 0    39   ~ 0
-Enter
-Text Notes 10350 3800 0    39   ~ 0
-R_Shift
-Text Notes 11050 3800 0    39   ~ 0
-Arrow_Up
-Text Notes 11750 1100 0    39   ~ 0
-Backspace
-Text Notes 12450 1100 0    39   ~ 0
-ESC
-Text Notes 13150 1100 0    39   ~ 0
-PgUp
-Text Notes 13150 2000 0    39   ~ 0
-PgDn
-Text Notes 12450 2000 0    39   ~ 0
-DEL
-Text Notes 11750 2000 0    39   ~ 0
-\
-Text Notes 11050 2000 0    39   ~ 0
-]
-Text Notes 11050 1100 0    39   ~ 0
-=
-Text Notes 10350 2000 0    39   ~ 0
-[
-Text Notes 10350 1100 0    39   ~ 0
--
-Text Notes 9650 1100 0    39   ~ 0
-0
-Text Notes 9650 2000 0    39   ~ 0
-P
-Text Notes 8950 2000 0    39   ~ 0
-O
-Text Notes 8950 1100 0    39   ~ 0
-9
-Text Notes 10350 2900 0    39   ~ 0
-'
-Text Notes 6850 4700 0    39   ~ 0
-R_Ctrl
-Text Notes 6150 4700 0    39   ~ 0
-Mod
-Text Notes 5450 4700 0    39   ~ 0
-R_Alt
-Text Notes 9650 3800 0    39   ~ 0
-/
-Text Notes 9650 2900 0    39   ~ 0
-;
-Text Notes 8950 2900 0    39   ~ 0
-L
-Text Notes 8950 3800 0    39   ~ 0
-.
-Wire Wire Line
-	8800 4850 8800 5150
-Connection ~ 10300 3700
-Connection ~ 10950 3350
-Connection ~ 10950 4250
-Connection ~ 4700 4600
-Connection ~ 4650 5150
-Connection ~ 5350 5150
-Connection ~ 6050 5150
-Connection ~ 6750 5150
-Connection ~ 7450 5150
-Connection ~ 8150 5150
-Connection ~ 8850 5150
-Connection ~ 8200 4600
-Connection ~ 7500 4600
-Connection ~ 6800 4600
-Connection ~ 6100 4600
-Connection ~ 5400 4600
-Wire Wire Line
-	2600 1000 3300 1000
-Wire Wire Line
-	3300 1000 4000 1000
-Wire Wire Line
-	4000 1000 4700 1000
-Wire Wire Line
-	4700 1000 5400 1000
-Wire Wire Line
-	5400 1000 6100 1000
-Wire Wire Line
-	6100 1000 6800 1000
-Wire Wire Line
-	6800 1000 7500 1000
-Wire Wire Line
-	7500 1000 8200 1000
-Wire Wire Line
-	8200 1000 8900 1000
-Wire Wire Line
-	2600 1900 3300 1900
-Wire Wire Line
-	3300 1900 4000 1900
-Wire Wire Line
-	4000 1900 4700 1900
-Wire Wire Line
-	4700 1900 5400 1900
-Wire Wire Line
-	5400 1900 6100 1900
-Wire Wire Line
-	6100 1900 6800 1900
-Wire Wire Line
-	6800 1900 7500 1900
-Wire Wire Line
-	7500 1900 8200 1900
-Wire Wire Line
-	8200 1900 8900 1900
-Wire Wire Line
-	2600 2800 3300 2800
-Wire Wire Line
-	3300 2800 4000 2800
-Wire Wire Line
-	4000 2800 4700 2800
-Wire Wire Line
-	4700 2800 5400 2800
-Wire Wire Line
-	5400 2800 6100 2800
-Wire Wire Line
-	6100 2800 6800 2800
-Wire Wire Line
-	6800 2800 7500 2800
-Wire Wire Line
-	7500 2800 8200 2800
-Wire Wire Line
-	8200 2800 8900 2800
-Wire Wire Line
-	2600 3700 3300 3700
-Wire Wire Line
-	3300 3700 4000 3700
-Wire Wire Line
-	4000 3700 4700 3700
-Wire Wire Line
-	4700 3700 5400 3700
-Wire Wire Line
-	5400 3700 6100 3700
-Wire Wire Line
-	6100 3700 6800 3700
-Wire Wire Line
-	6800 3700 7500 3700
-Wire Wire Line
-	7500 3700 8200 3700
-Wire Wire Line
-	8200 3700 8900 3700
-Wire Wire Line
-	2550 2450 2550 3350
-Wire Wire Line
-	2550 3350 2550 4250
-Wire Wire Line
-	2550 4250 2550 5150
-Wire Wire Line
-	3250 2450 3250 3350
-Wire Wire Line
-	3250 3350 3250 4250
-Wire Wire Line
-	3250 4250 3250 5150
-Wire Wire Line
-	3950 2450 3950 3350
-Wire Wire Line
-	3950 3350 3950 4250
-Wire Wire Line
-	3950 4250 3950 5150
-Wire Wire Line
-	4650 2450 4650 3350
-Wire Wire Line
-	4650 3350 4650 4250
-Wire Wire Line
-	4650 4250 4650 5150
-Wire Wire Line
-	5350 2450 5350 3350
-Wire Wire Line
-	5350 3350 5350 4250
-Wire Wire Line
-	5350 4250 5350 5150
-Wire Wire Line
-	6050 2450 6050 3350
-Wire Wire Line
-	6050 3350 6050 4250
-Wire Wire Line
-	6050 4250 6050 5150
-Wire Wire Line
-	6750 2450 6750 3350
-Wire Wire Line
-	6750 3350 6750 4250
-Wire Wire Line
-	6750 4250 6750 5150
-Wire Wire Line
-	7450 4250 7450 5150
-Wire Wire Line
-	8150 4250 8150 5150
-Wire Wire Line
-	7450 3350 7450 4250
-Wire Wire Line
-	7450 2450 7450 3350
-Wire Wire Line
-	8150 3350 8150 4250
-Wire Wire Line
-	8150 2450 8150 3350
-Wire Wire Line
-	3950 5150 3950 6150
-Wire Wire Line
-	3250 5150 3250 6150
-Wire Wire Line
-	2550 5150 2550 6150
-Wire Wire Line
-	4000 4600 4700 4600
-Wire Wire Line
-	3300 4600 4000 4600
-Wire Wire Line
-	2600 4600 3300 4600
-Wire Wire Line
-	8850 2450 8850 3350
-Wire Wire Line
-	8850 4250 8850 5150
-Wire Wire Line
-	8850 3350 8850 4250
-Wire Wire Line
-	8900 3700 9600 3700
-Wire Wire Line
-	8900 2800 9600 2800
-Wire Wire Line
-	8900 1900 9600 1900
-Wire Wire Line
-	8900 1000 9600 1000
-Wire Wire Line
-	13050 2450 13050 6150
-Wire Wire Line
-	12350 2450 12350 6150
-Wire Wire Line
-	10950 2450 10950 3350
-Wire Wire Line
-	10250 2450 10250 3350
-Wire Wire Line
-	9550 2450 9550 3350
-Wire Wire Line
-	9550 3350 9550 4250
-Wire Wire Line
-	9550 4250 9550 6150
-Wire Wire Line
-	9600 3700 10300 3700
-Wire Wire Line
-	10300 2800 11000 2800
-Wire Wire Line
-	9600 2800 10300 2800
-Wire Wire Line
-	12400 1900 13100 1900
-Wire Wire Line
-	11700 1900 12400 1900
-Wire Wire Line
-	11000 1900 11700 1900
-Wire Wire Line
-	10300 1900 11000 1900
-Wire Wire Line
-	9600 1900 10300 1900
-Wire Wire Line
-	12400 1000 13100 1000
-Wire Wire Line
-	11700 1000 12400 1000
-Wire Wire Line
-	11000 1000 11700 1000
-Wire Wire Line
-	10300 1000 11000 1000
-Wire Wire Line
-	9600 1000 10300 1000
-Wire Wire Line
-	10300 3700 11000 3700
-Wire Wire Line
-	10950 3350 10950 4250
-Wire Wire Line
-	10950 4250 10950 6150
-Wire Wire Line
-	4700 4600 5400 4600
-Wire Wire Line
-	4650 5150 4650 6150
-Wire Wire Line
-	5350 5150 5350 6150
-Wire Wire Line
-	6050 5150 6050 6150
-Wire Wire Line
-	6750 5150 6750 6150
-Wire Wire Line
-	7450 5150 7450 6150
-Wire Wire Line
-	8150 5150 8150 6150
-Wire Wire Line
-	8850 5150 8850 6150
-Wire Wire Line
-	8200 4600 8900 4600
-Wire Wire Line
-	7500 4600 8200 4600
-Wire Wire Line
-	6800 4600 7500 4600
-Wire Wire Line
-	6100 4600 6800 4600
-Wire Wire Line
-	5400 4600 6100 4600
-Wire Wire Line
-	11650 2450 11650 6150
 $Comp
 L Connector:Conn_01x02_Female J2
 U 1 1 5CFC2D7E
@@ -1194,83 +222,6 @@ F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Connector:Conn_01x02_Female J42
-U 1 1 5CF0B729
-P 8500 1050
-F 0 "J42" V 8392 862 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 8347 862 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 8500 1050 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 8500 1050 50  0001 C CNN
-	1    8500 1050
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J49
-U 1 1 5CF0BA82
-P 9250 1050
-F 0 "J49" V 9142 862 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 9097 862 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 9250 1050 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 9250 1050 50  0001 C CNN
-	1    9250 1050
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J52
-U 1 1 5CF0BD99
-P 9900 1050
-F 0 "J52" V 9792 862 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 9747 862 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 9900 1050 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 9900 1050 50  0001 C CNN
-	1    9900 1050
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J56
-U 1 1 5CF0C15D
-P 10600 1050
-F 0 "J56" V 10492 862 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 10447 862 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 10600 1050 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 10600 1050 50  0001 C CNN
-	1    10600 1050
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J60
-U 1 1 5CF0D147
-P 11300 1050
-F 0 "J60" V 11192 862 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 11147 862 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 11300 1050 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 11300 1050 50  0001 C CNN
-	1    11300 1050
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J64
-U 1 1 5CF0DF20
-P 12000 1050
-F 0 "J64" V 11892 862 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 11847 862 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 12000 1050 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 12000 1050 50  0001 C CNN
-	1    12000 1050
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J66
-U 1 1 5CF0E4B1
-P 12700 1050
-F 0 "J66" V 12592 862 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 12547 862 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 12700 1050 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 12700 1050 50  0001 C CNN
-	1    12700 1050
-	0    -1   -1   0   
-$EndComp
-$Comp
 L Device:D_Small D17
 U 1 1 5CF1A540
 P 5050 1550
@@ -1330,570 +281,6 @@ F 4 "C109001" H 7850 1550 50  0001 C CNN "LCSC"
 	1    7850 1550
 	1    0    0    -1  
 $EndComp
-$Comp
-L Device:D_Small D42
-U 1 1 5CF1BC29
-P 8550 1550
-F 0 "D42" H 8550 1755 50  0000 C CNN
-F 1 "Switching Diode" H 8550 1664 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 8550 1550 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 8550 1550 50  0001 C CNN
-F 4 "C109001" H 8550 1550 50  0001 C CNN "LCSC"
-	1    8550 1550
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D47
-U 1 1 5CF1D42F
-P 9250 1550
-F 0 "D47" H 9250 1755 50  0000 C CNN
-F 1 "Switching Diode" H 9250 1664 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 9250 1550 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 9250 1550 50  0001 C CNN
-F 4 "C109001" H 9250 1550 50  0001 C CNN "LCSC"
-	1    9250 1550
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D52
-U 1 1 5CF1D6F6
-P 9950 1550
-F 0 "D52" H 9950 1755 50  0000 C CNN
-F 1 "Switching Diode" H 9950 1664 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 9950 1550 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 9950 1550 50  0001 C CNN
-F 4 "C109001" H 9950 1550 50  0001 C CNN "LCSC"
-	1    9950 1550
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D56
-U 1 1 5CF1DAB8
-P 10650 1550
-F 0 "D56" H 10650 1755 50  0000 C CNN
-F 1 "Switching Diode" H 10650 1664 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 10650 1550 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 10650 1550 50  0001 C CNN
-F 4 "C109001" H 10650 1550 50  0001 C CNN "LCSC"
-	1    10650 1550
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	11600 1550 11450 1550
-$Comp
-L Device:D_Small D60
-U 1 1 5CF1F328
-P 11350 1550
-F 0 "D60" H 11350 1755 50  0000 C CNN
-F 1 "Switching Diode" H 11350 1664 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 11350 1550 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 11350 1550 50  0001 C CNN
-F 4 "C109001" H 11350 1550 50  0001 C CNN "LCSC"
-	1    11350 1550
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D64
-U 1 1 5CF1F6A1
-P 12050 1550
-F 0 "D64" H 12050 1755 50  0000 C CNN
-F 1 "Switching Diode" H 12050 1664 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 12050 1550 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 12050 1550 50  0001 C CNN
-F 4 "C109001" H 12050 1550 50  0001 C CNN "LCSC"
-	1    12050 1550
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D66
-U 1 1 5CF1FA39
-P 12750 1550
-F 0 "D66" H 12750 1755 50  0000 C CNN
-F 1 "Switching Diode" H 12750 1664 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 12750 1550 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 12750 1550 50  0001 C CNN
-F 4 "C109001" H 12750 1550 50  0001 C CNN "LCSC"
-	1    12750 1550
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D68
-U 1 1 5CF1FE9A
-P 13450 1550
-F 0 "D68" H 13450 1755 50  0000 C CNN
-F 1 "Switching Diode" H 13450 1664 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 13450 1550 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 13450 1550 50  0001 C CNN
-F 4 "C109001" H 13450 1550 50  0001 C CNN "LCSC"
-	1    13450 1550
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J68
-U 1 1 5CF20207
-P 13400 1050
-F 0 "J68" V 13292 862 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 13247 862 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 13400 1050 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 13400 1050 50  0001 C CNN
-	1    13400 1050
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J69
-U 1 1 5CF20740
-P 13450 1950
-F 0 "J69" V 13342 1762 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 13297 1762 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 13450 1950 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 13450 1950 50  0001 C CNN
-	1    13450 1950
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J67
-U 1 1 5CF20D2D
-P 12700 1950
-F 0 "J67" V 12592 1762 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 12547 1762 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 12700 1950 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 12700 1950 50  0001 C CNN
-	1    12700 1950
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J65
-U 1 1 5CF213CD
-P 12000 1950
-F 0 "J65" V 11892 1762 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 11847 1762 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 12000 1950 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 12000 1950 50  0001 C CNN
-	1    12000 1950
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J61
-U 1 1 5CF2196B
-P 11300 1950
-F 0 "J61" V 11192 1762 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 11147 1762 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 11300 1950 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 11300 1950 50  0001 C CNN
-	1    11300 1950
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J57
-U 1 1 5CF22038
-P 10600 1950
-F 0 "J57" V 10492 1762 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 10447 1762 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 10600 1950 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 10600 1950 50  0001 C CNN
-	1    10600 1950
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J53
-U 1 1 5CF226E9
-P 9900 1950
-F 0 "J53" V 9792 1762 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 9747 1762 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 9900 1950 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 9900 1950 50  0001 C CNN
-	1    9900 1950
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J62
-U 1 1 5CF22DEC
-P 11300 2850
-F 0 "J62" V 11192 2662 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 11147 2662 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 11300 2850 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 11300 2850 50  0001 C CNN
-	1    11300 2850
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J58
-U 1 1 5CF234E2
-P 10600 2850
-F 0 "J58" V 10492 2662 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 10447 2662 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 10600 2850 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 10600 2850 50  0001 C CNN
-	1    10600 2850
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J54
-U 1 1 5CF23DB5
-P 9900 2850
-F 0 "J54" V 9792 2662 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 9747 2662 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 9900 2850 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 9900 2850 50  0001 C CNN
-	1    9900 2850
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J50
-U 1 1 5CF24349
-P 9250 1950
-F 0 "J50" V 9142 1762 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 9097 1762 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 9250 1950 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 9250 1950 50  0001 C CNN
-	1    9250 1950
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J51
-U 1 1 5CF249D4
-P 9250 2850
-F 0 "J51" V 9142 2662 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 9097 2662 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 9250 2850 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 9250 2850 50  0001 C CNN
-	1    9250 2850
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J43
-U 1 1 5CF2518E
-P 8500 1950
-F 0 "J43" V 8392 1762 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 8347 1762 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 8500 1950 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 8500 1950 50  0001 C CNN
-	1    8500 1950
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J44
-U 1 1 5CF2591C
-P 8500 2850
-F 0 "J44" V 8392 2662 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 8347 2662 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 8500 2850 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 8500 2850 50  0001 C CNN
-	1    8500 2850
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J38
-U 1 1 5CF25F9F
-P 7800 1950
-F 0 "J38" V 7692 1762 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 7647 1762 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 7800 1950 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 7800 1950 50  0001 C CNN
-	1    7800 1950
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J39
-U 1 1 5CF2662D
-P 7800 2850
-F 0 "J39" V 7692 2662 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 7647 2662 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 7800 2850 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 7800 2850 50  0001 C CNN
-	1    7800 2850
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:D_Small D69
-U 1 1 5CF26D1C
-P 13450 2450
-F 0 "D69" H 13450 2655 50  0000 C CNN
-F 1 "Switching Diode" H 13450 2564 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 13450 2450 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 13450 2450 50  0001 C CNN
-F 4 "C109001" H 13450 2450 50  0001 C CNN "LCSC"
-	1    13450 2450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D67
-U 1 1 5CF271D3
-P 12750 2450
-F 0 "D67" H 12750 2655 50  0000 C CNN
-F 1 "Switching Diode" H 12750 2564 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 12750 2450 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 12750 2450 50  0001 C CNN
-F 4 "C109001" H 12750 2450 50  0001 C CNN "LCSC"
-	1    12750 2450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D65
-U 1 1 5CF27703
-P 12050 2450
-F 0 "D65" H 12050 2655 50  0000 C CNN
-F 1 "Switching Diode" H 12050 2564 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 12050 2450 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 12050 2450 50  0001 C CNN
-F 4 "C109001" H 12050 2450 50  0001 C CNN "LCSC"
-	1    12050 2450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D61
-U 1 1 5CF27D88
-P 11350 2450
-F 0 "D61" H 11350 2655 50  0000 C CNN
-F 1 "Switching Diode" H 11350 2564 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 11350 2450 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 11350 2450 50  0001 C CNN
-F 4 "C109001" H 11350 2450 50  0001 C CNN "LCSC"
-	1    11350 2450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D57
-U 1 1 5CF282FB
-P 10650 2450
-F 0 "D57" H 10650 2655 50  0000 C CNN
-F 1 "Switching Diode" H 10650 2564 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 10650 2450 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 10650 2450 50  0001 C CNN
-F 4 "C109001" H 10650 2450 50  0001 C CNN "LCSC"
-	1    10650 2450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D53
-U 1 1 5CF287D4
-P 9950 2450
-F 0 "D53" H 9950 2655 50  0000 C CNN
-F 1 "Switching Diode" H 9950 2564 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 9950 2450 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 9950 2450 50  0001 C CNN
-F 4 "C109001" H 9950 2450 50  0001 C CNN "LCSC"
-	1    9950 2450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D48
-U 1 1 5CF28E07
-P 9250 2450
-F 0 "D48" H 9250 2655 50  0000 C CNN
-F 1 "Switching Diode" H 9250 2564 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 9250 2450 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 9250 2450 50  0001 C CNN
-F 4 "C109001" H 9250 2450 50  0001 C CNN "LCSC"
-	1    9250 2450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D43
-U 1 1 5CF29382
-P 8550 2450
-F 0 "D43" H 8550 2655 50  0000 C CNN
-F 1 "Switching Diode" H 8550 2564 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 8550 2450 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 8550 2450 50  0001 C CNN
-F 4 "C109001" H 8550 2450 50  0001 C CNN "LCSC"
-	1    8550 2450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J33
-U 1 1 5CF372A8
-P 7100 1950
-F 0 "J33" V 6992 1762 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 6947 1762 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 7100 1950 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 7100 1950 50  0001 C CNN
-	1    7100 1950
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J34
-U 1 1 5CF377E7
-P 7100 2850
-F 0 "J34" V 6992 2662 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 6947 2662 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 7100 2850 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 7100 2850 50  0001 C CNN
-	1    7100 2850
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J28
-U 1 1 5CF37F13
-P 6400 1950
-F 0 "J28" V 6292 1762 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 6247 1762 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 6400 1950 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 6400 1950 50  0001 C CNN
-	1    6400 1950
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J29
-U 1 1 5CF384F1
-P 6400 2850
-F 0 "J29" V 6292 2662 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 6247 2662 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 6400 2850 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 6400 2850 50  0001 C CNN
-	1    6400 2850
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J23
-U 1 1 5CF38AA8
-P 5700 1950
-F 0 "J23" V 5592 1762 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 5547 1762 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 5700 1950 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 5700 1950 50  0001 C CNN
-	1    5700 1950
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J24
-U 1 1 5CF3917B
-P 5700 2850
-F 0 "J24" V 5592 2662 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 5547 2662 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 5700 2850 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 5700 2850 50  0001 C CNN
-	1    5700 2850
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J18
-U 1 1 5CF397B6
-P 5000 1950
-F 0 "J18" V 4892 1762 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 4847 1762 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 5000 1950 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 5000 1950 50  0001 C CNN
-	1    5000 1950
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J19
-U 1 1 5CF39DE1
-P 5000 2850
-F 0 "J19" V 4892 2662 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 4847 2662 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 5000 2850 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 5000 2850 50  0001 C CNN
-	1    5000 2850
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J13
-U 1 1 5CF3A3B9
-P 4300 1950
-F 0 "J13" V 4192 1762 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 4147 1762 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 4300 1950 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 4300 1950 50  0001 C CNN
-	1    4300 1950
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J14
-U 1 1 5CF3AAEC
-P 4300 2850
-F 0 "J14" V 4192 2662 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 4147 2662 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 4300 2850 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 4300 2850 50  0001 C CNN
-	1    4300 2850
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J8
-U 1 1 5CF3BFD9
-P 3600 1950
-F 0 "J8" V 3492 1762 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 3447 1762 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 3600 1950 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 3600 1950 50  0001 C CNN
-	1    3600 1950
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J9
-U 1 1 5CF3C5CE
-P 3600 2850
-F 0 "J9" V 3492 2662 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 3447 2662 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 3600 2850 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 3600 2850 50  0001 C CNN
-	1    3600 2850
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J3
-U 1 1 5CF3CB43
-P 2900 1950
-F 0 "J3" V 2792 1762 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 2747 1762 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 2900 1950 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 2900 1950 50  0001 C CNN
-	1    2900 1950
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J4
-U 1 1 5CF3D083
-P 2900 2850
-F 0 "J4" V 2792 2662 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 2747 2662 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 2900 2850 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 2900 2850 50  0001 C CNN
-	1    2900 2850
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	13100 1250 13400 1250
-Wire Wire Line
-	13500 1250 13700 1250
-Wire Wire Line
-	13000 1250 12800 1250
-Wire Wire Line
-	12700 1250 12400 1250
-Wire Wire Line
-	13100 2150 13450 2150
-Wire Wire Line
-	13550 2150 13700 2150
-Wire Wire Line
-	13000 2150 12800 2150
-Wire Wire Line
-	12700 2150 12400 2150
-Wire Wire Line
-	12300 1250 12100 1250
-Wire Wire Line
-	12000 1250 11700 1250
-Wire Wire Line
-	11600 1250 11400 1250
-Wire Wire Line
-	11300 1250 11000 1250
-Wire Wire Line
-	10900 1250 10700 1250
-Wire Wire Line
-	10600 1250 10300 1250
-Wire Wire Line
-	10200 1250 10000 1250
-Wire Wire Line
-	9900 1250 9600 1250
-Wire Wire Line
-	9500 1250 9350 1250
-Wire Wire Line
-	9250 1250 8900 1250
-Wire Wire Line
-	8200 1250 8500 1250
-Wire Wire Line
-	8600 1250 8800 1250
 Wire Wire Line
 	8100 1250 7900 1250
 Wire Wire Line
@@ -1922,1040 +309,2649 @@ Wire Wire Line
 	3900 1250 3700 1250
 Wire Wire Line
 	3600 1250 3300 1250
+Text GLabel 2400 1000 0    50   Input ~ 0
+ROW_0
+Text GLabel 2400 1750 0    50   Input ~ 0
+ROW_1
+Text GLabel 2400 2500 0    50   Input ~ 0
+ROW_2
+Text GLabel 2400 3250 0    50   Input ~ 0
+ROW_3
+Text GLabel 2400 4000 0    50   Input ~ 0
+ROW_4
+Wire Wire Line
+	8600 1250 8800 1250
+Wire Wire Line
+	8200 1250 8500 1250
+Wire Wire Line
+	4350 2000 4000 2000
+Wire Wire Line
+	4600 2000 4450 2000
+Wire Wire Line
+	5000 2000 4700 2000
+Wire Wire Line
+	5300 2000 5100 2000
+Wire Wire Line
+	5700 2000 5400 2000
+Wire Wire Line
+	6000 2000 5800 2000
+Wire Wire Line
+	6400 2000 6100 2000
+Wire Wire Line
+	6700 2000 6500 2000
+Wire Wire Line
+	7100 2000 6800 2000
+Wire Wire Line
+	7400 2000 7200 2000
+Wire Wire Line
+	7800 2000 7500 2000
+Wire Wire Line
+	8100 2000 7900 2000
+Wire Wire Line
+	8600 2000 8800 2000
+Wire Wire Line
+	8200 2000 8500 2000
+$Comp
+L Connector:Conn_01x02_Female J68
+U 1 1 5CF20207
+P 8500 1800
+F 0 "J68" V 8392 1612 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 8347 1612 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 8500 1800 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 8500 1800 50  0001 C CNN
+	1    8500 1800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D68
+U 1 1 5CF1FE9A
+P 8550 2300
+F 0 "D68" H 8550 2505 50  0000 C CNN
+F 1 "Switching Diode" H 8550 2414 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 8550 2300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 8550 2300 50  0001 C CNN
+F 4 "C109001" H 8550 2300 50  0001 C CNN "LCSC"
+	1    8550 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D66
+U 1 1 5CF1FA39
+P 7850 2300
+F 0 "D66" H 7850 2505 50  0000 C CNN
+F 1 "Switching Diode" H 7850 2414 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 7850 2300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 7850 2300 50  0001 C CNN
+F 4 "C109001" H 7850 2300 50  0001 C CNN "LCSC"
+	1    7850 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D64
+U 1 1 5CF1F6A1
+P 7150 2300
+F 0 "D64" H 7150 2505 50  0000 C CNN
+F 1 "Switching Diode" H 7150 2414 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 7150 2300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 7150 2300 50  0001 C CNN
+F 4 "C109001" H 7150 2300 50  0001 C CNN "LCSC"
+	1    7150 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D60
+U 1 1 5CF1F328
+P 6450 2300
+F 0 "D60" H 6450 2505 50  0000 C CNN
+F 1 "Switching Diode" H 6450 2414 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 6450 2300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 6450 2300 50  0001 C CNN
+F 4 "C109001" H 6450 2300 50  0001 C CNN "LCSC"
+	1    6450 2300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6700 2300 6550 2300
+$Comp
+L Device:D_Small D56
+U 1 1 5CF1DAB8
+P 5750 2300
+F 0 "D56" H 5750 2505 50  0000 C CNN
+F 1 "Switching Diode" H 5750 2414 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 5750 2300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 5750 2300 50  0001 C CNN
+F 4 "C109001" H 5750 2300 50  0001 C CNN "LCSC"
+	1    5750 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D52
+U 1 1 5CF1D6F6
+P 5050 2300
+F 0 "D52" H 5050 2505 50  0000 C CNN
+F 1 "Switching Diode" H 5050 2414 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 5050 2300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 5050 2300 50  0001 C CNN
+F 4 "C109001" H 5050 2300 50  0001 C CNN "LCSC"
+	1    5050 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D47
+U 1 1 5CF1D42F
+P 4350 2300
+F 0 "D47" H 4350 2505 50  0000 C CNN
+F 1 "Switching Diode" H 4350 2414 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 4350 2300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 4350 2300 50  0001 C CNN
+F 4 "C109001" H 4350 2300 50  0001 C CNN "LCSC"
+	1    4350 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D42
+U 1 1 5CF1BC29
+P 8550 1550
+F 0 "D42" H 8550 1755 50  0000 C CNN
+F 1 "Switching Diode" H 8550 1664 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 8550 1550 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 8550 1550 50  0001 C CNN
+F 4 "C109001" H 8550 1550 50  0001 C CNN "LCSC"
+	1    8550 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J66
+U 1 1 5CF0E4B1
+P 7800 1800
+F 0 "J66" V 7692 1612 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 7647 1612 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 7800 1800 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 7800 1800 50  0001 C CNN
+	1    7800 1800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J64
+U 1 1 5CF0DF20
+P 7100 1800
+F 0 "J64" V 6992 1612 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 6947 1612 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 7100 1800 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 7100 1800 50  0001 C CNN
+	1    7100 1800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J60
+U 1 1 5CF0D147
+P 6400 1800
+F 0 "J60" V 6292 1612 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 6247 1612 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 6400 1800 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 6400 1800 50  0001 C CNN
+	1    6400 1800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J56
+U 1 1 5CF0C15D
+P 5700 1800
+F 0 "J56" V 5592 1612 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 5547 1612 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 5700 1800 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 5700 1800 50  0001 C CNN
+	1    5700 1800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J52
+U 1 1 5CF0BD99
+P 5000 1800
+F 0 "J52" V 4892 1612 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 4847 1612 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 5000 1800 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 5000 1800 50  0001 C CNN
+	1    5000 1800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J49
+U 1 1 5CF0BA82
+P 4350 1800
+F 0 "J49" V 4242 1612 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 4197 1612 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 4350 1800 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 4350 1800 50  0001 C CNN
+	1    4350 1800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J42
+U 1 1 5CF0B729
+P 8500 1050
+F 0 "J42" V 8392 862 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 8347 862 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 8500 1050 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 8500 1050 50  0001 C CNN
+	1    8500 1050
+	0    -1   -1   0   
+$EndComp
+Text Notes 4050 1850 0    39   ~ 0
+9
+Text Notes 4750 1850 0    39   ~ 0
+0
+Text Notes 5450 1850 0    39   ~ 0
+-
+Text Notes 6150 1850 0    39   ~ 0
+=
+Text Notes 8250 1850 0    39   ~ 0
+PgUp
+Text Notes 7550 1850 0    39   ~ 0
+ESC
+Text Notes 6850 1850 0    39   ~ 0
+Backspace
+Wire Wire Line
+	4600 2000 4600 2300
+Wire Wire Line
+	4600 2300 4450 2300
+Wire Wire Line
+	6000 2000 6000 2300
+Wire Wire Line
+	6000 2300 5850 2300
+Wire Wire Line
+	5300 2000 5300 2300
+Wire Wire Line
+	5300 2300 5150 2300
+Wire Wire Line
+	7400 2000 7400 2300
+Wire Wire Line
+	7400 2300 7250 2300
+Wire Wire Line
+	6700 2000 6700 2300
+Wire Wire Line
+	8800 2000 8800 2300
+Wire Wire Line
+	8800 2300 8650 2300
+Wire Wire Line
+	8100 2000 8100 2300
+Wire Wire Line
+	8100 2300 7950 2300
+Wire Wire Line
+	4700 1750 4700 2000
+Wire Wire Line
+	5400 1750 5400 2000
+Wire Wire Line
+	6100 1750 6100 2000
+Wire Wire Line
+	6800 1750 6800 2000
+Wire Wire Line
+	7500 1750 7500 2000
+Wire Wire Line
+	8200 1750 8200 2000
+Wire Wire Line
+	3950 2300 4250 2300
+Wire Wire Line
+	4650 2300 4950 2300
+Wire Wire Line
+	5350 2300 5650 2300
+Wire Wire Line
+	6050 2300 6350 2300
+Wire Wire Line
+	6750 2300 7050 2300
+Wire Wire Line
+	7450 2300 7750 2300
+Wire Wire Line
+	8150 2300 8450 2300
+Wire Wire Line
+	4000 1750 4000 2000
+Wire Wire Line
+	8150 1550 8450 1550
+Wire Wire Line
+	8200 1000 8200 1250
+Wire Wire Line
+	8800 1550 8650 1550
+Wire Wire Line
+	8800 1250 8800 1550
+Text Notes 8250 1100 0    39   ~ 0
+8
+Text Notes 2650 1850 0    39   ~ 0
+Tab
+Text Notes 2650 3350 0    39   ~ 0
+Caps
+Text Notes 2650 4850 0    39   ~ 0
+L_Shift
+Text Notes 3350 3350 0    39   ~ 0
+A
+Text Notes 3350 1850 0    39   ~ 0
+Q
+Text Notes 3350 2600 0    39   ~ 0
+E
+Text Notes 2650 2600 0    39   ~ 0
+W
+Text Notes 4050 3350 0    39   ~ 0
+S
+Text Notes 4750 3350 0    39   ~ 0
+D
+Text Notes 4750 4850 0    39   ~ 0
+C
+Text Notes 4050 4850 0    39   ~ 0
+X
+Text Notes 3350 4850 0    39   ~ 0
+Z
+Text Notes 5450 4850 0    39   ~ 0
+V
+Text Notes 2650 4100 0    39   ~ 0
+F
+Text Notes 6150 4850 0    39   ~ 0
+B
+Text Notes 6850 4850 0    39   ~ 0
+N
+Text Notes 4050 4100 0    39   ~ 0
+H
+Text Notes 3350 4100 0    39   ~ 0
+G
+Text Notes 8250 4850 0    39   ~ 0
+,
+Text Notes 7550 4850 0    39   ~ 0
+M
+Text Notes 4750 4100 0    39   ~ 0
+J
+Text Notes 5450 4100 0    39   ~ 0
+K
+Text Notes 4050 2600 0    39   ~ 0
+R
+Text Notes 4750 2600 0    39   ~ 0
+T
+Text Notes 5450 2600 0    39   ~ 0
+Y
+Text Notes 6150 2600 0    39   ~ 0
+U
+Text Notes 6850 2600 0    39   ~ 0
+I
+Wire Wire Line
+	3900 2000 3900 2300
+Wire Wire Line
+	3900 2300 3750 2300
+Wire Wire Line
+	3200 2000 3200 2300
+Wire Wire Line
+	3200 2300 3050 2300
+Wire Wire Line
+	3900 2750 3900 3050
+Wire Wire Line
+	3900 3050 3750 3050
+Wire Wire Line
+	3200 2750 3200 3050
+Wire Wire Line
+	3200 3050 3050 3050
+Wire Wire Line
+	5300 2750 5300 3050
+Wire Wire Line
+	5300 3050 5150 3050
+Wire Wire Line
+	4600 2750 4600 3050
+Wire Wire Line
+	4600 3050 4450 3050
+Wire Wire Line
+	6700 2750 6700 3050
+Wire Wire Line
+	6700 3050 6550 3050
+Wire Wire Line
+	6000 2750 6000 3050
+Wire Wire Line
+	6000 3050 5850 3050
+Wire Wire Line
+	7400 2750 7400 3050
+Wire Wire Line
+	7400 3050 7250 3050
+Wire Wire Line
+	2600 1750 2600 2000
+Wire Wire Line
+	3300 1750 3300 2000
+Wire Wire Line
+	2600 2500 2600 2750
+Wire Wire Line
+	3300 2500 3300 2750
+Wire Wire Line
+	4000 2500 4000 2750
+Wire Wire Line
+	4700 2500 4700 2750
+Wire Wire Line
+	5400 2500 5400 2750
+Wire Wire Line
+	6100 2500 6100 2750
+Wire Wire Line
+	6800 2500 6800 2750
+Wire Wire Line
+	2850 2300 2550 2300
+Wire Wire Line
+	3250 2300 3550 2300
+Wire Wire Line
+	2550 3050 2850 3050
+Wire Wire Line
+	3250 3050 3550 3050
+Wire Wire Line
+	3950 3050 4250 3050
+Wire Wire Line
+	4650 3050 4950 3050
+Wire Wire Line
+	5350 3050 5650 3050
+Wire Wire Line
+	6050 3050 6350 3050
+Wire Wire Line
+	6750 3050 7050 3050
+Wire Wire Line
+	3900 3500 3900 3800
+Wire Wire Line
+	3200 3500 3200 3800
+Wire Wire Line
+	3200 3800 3050 3800
+Wire Wire Line
+	5300 3500 5300 3800
+Wire Wire Line
+	5300 3800 5150 3800
+Wire Wire Line
+	4600 3500 4600 3800
+Wire Wire Line
+	4600 3800 4450 3800
+Wire Wire Line
+	3900 4250 3900 4550
+Wire Wire Line
+	3900 4550 3750 4550
+Wire Wire Line
+	3200 4250 3200 4550
+Wire Wire Line
+	3200 4550 3050 4550
+Wire Wire Line
+	5300 4250 5300 4550
+Wire Wire Line
+	5300 4550 5150 4550
+Wire Wire Line
+	4600 4250 4600 4550
+Wire Wire Line
+	4600 4550 4450 4550
+Wire Wire Line
+	6000 4250 6000 4550
+Wire Wire Line
+	6000 4550 5850 4550
+Wire Wire Line
+	2600 3250 2600 3500
+Wire Wire Line
+	3300 3250 3300 3500
+Wire Wire Line
+	4000 3250 4000 3500
+Wire Wire Line
+	4700 3250 4700 3500
+Wire Wire Line
+	2600 4000 2600 4250
+Wire Wire Line
+	3300 4000 3300 4250
+Wire Wire Line
+	4000 4000 4000 4250
+Wire Wire Line
+	4700 4000 4700 4250
+Wire Wire Line
+	5400 4000 5400 4250
+Wire Wire Line
+	2550 3800 2850 3800
+Wire Wire Line
+	3250 3800 3550 3800
+Wire Wire Line
+	3950 3800 4250 3800
+Wire Wire Line
+	4650 3800 4950 3800
+Wire Wire Line
+	2550 4550 2850 4550
+Wire Wire Line
+	3250 4550 3550 4550
+Wire Wire Line
+	3950 4550 4250 4550
+Wire Wire Line
+	4650 4550 4950 4550
+Wire Wire Line
+	5350 4550 5650 4550
+Wire Wire Line
+	3900 5000 3900 5300
+Wire Wire Line
+	3900 5300 3750 5300
+Wire Wire Line
+	3200 5000 3200 5300
+Wire Wire Line
+	3200 5300 3050 5300
+Wire Wire Line
+	5300 5000 5300 5300
+Wire Wire Line
+	5300 5300 5150 5300
+Wire Wire Line
+	4600 5000 4600 5300
+Wire Wire Line
+	4600 5300 4450 5300
+Wire Wire Line
+	6700 5000 6700 5300
+Wire Wire Line
+	6700 5300 6550 5300
+Wire Wire Line
+	6000 5000 6000 5300
+Wire Wire Line
+	6000 5300 5850 5300
+Wire Wire Line
+	8100 5000 8100 5300
+Wire Wire Line
+	8100 5300 7950 5300
+Wire Wire Line
+	7400 5000 7400 5300
+Wire Wire Line
+	7400 5300 7250 5300
+Wire Wire Line
+	8800 5000 8800 5300
+Wire Wire Line
+	8800 5300 8650 5300
+Wire Wire Line
+	2600 4750 2600 5000
+Wire Wire Line
+	3300 4750 3300 5000
+Wire Wire Line
+	4000 4750 4000 5000
+Wire Wire Line
+	4700 4750 4700 5000
+Wire Wire Line
+	5400 4750 5400 5000
+Wire Wire Line
+	6100 4750 6100 5000
+Wire Wire Line
+	6800 4750 6800 5000
+Wire Wire Line
+	7500 4750 7500 5000
+Wire Wire Line
+	8200 4750 8200 5000
+Wire Wire Line
+	2550 5300 2850 5300
+Wire Wire Line
+	3950 5300 4250 5300
+Wire Wire Line
+	4650 5300 4950 5300
+Wire Wire Line
+	5350 5300 5650 5300
+Wire Wire Line
+	6050 5300 6350 5300
+Wire Wire Line
+	6750 5300 7050 5300
+Wire Wire Line
+	8150 5300 8450 5300
+Wire Wire Line
+	4650 6050 4950 6050
+Wire Wire Line
+	3950 6050 4250 6050
+Wire Wire Line
+	3250 6050 3550 6050
+Wire Wire Line
+	2550 6050 2850 6050
+Wire Wire Line
+	4700 5500 4700 5750
+Wire Wire Line
+	4000 5500 4000 5750
+Wire Wire Line
+	3300 5500 3300 5750
+Wire Wire Line
+	2600 5500 2600 5750
+Wire Wire Line
+	5300 6050 5150 6050
+Wire Wire Line
+	5300 5750 5300 6050
+Wire Wire Line
+	4600 6050 4450 6050
+Wire Wire Line
+	4600 5750 4600 6050
+Wire Wire Line
+	3200 6050 3050 6050
+Wire Wire Line
+	3200 5750 3200 6050
+Wire Wire Line
+	3900 6050 3750 6050
+Wire Wire Line
+	3900 5750 3900 6050
+Text Notes 4750 5600 0    39   ~ 0
+Space
+Text Notes 4050 5600 0    39   ~ 0
+L_Alt
+Text Notes 2650 5600 0    39   ~ 0
+L_Ctrl
+Text Notes 3350 5600 0    39   ~ 0
+Mod
+Wire Wire Line
+	6100 5500 6100 5750
+Wire Wire Line
+	6100 4000 6100 4250
+Wire Wire Line
+	7500 2500 7500 2750
+Wire Wire Line
+	5350 6800 5650 6800
+Wire Wire Line
+	4650 6800 4950 6800
+Wire Wire Line
+	3950 6800 4250 6800
+Wire Wire Line
+	3250 6800 3550 6800
+Wire Wire Line
+	2550 6800 2850 6800
+Wire Wire Line
+	5350 6050 5650 6050
+Wire Wire Line
+	5400 6250 5400 6500
+Wire Wire Line
+	4700 6250 4700 6500
+Wire Wire Line
+	4000 6250 4000 6500
+Wire Wire Line
+	3300 6250 3300 6500
+Wire Wire Line
+	2600 6250 2600 6500
+Wire Wire Line
+	5400 5500 5400 5750
+Wire Wire Line
+	5300 6800 5150 6800
+Wire Wire Line
+	6000 6800 5850 6800
+Wire Wire Line
+	6000 6500 6000 6800
+Wire Wire Line
+	3900 6800 3750 6800
+Wire Wire Line
+	3900 6500 3900 6800
+Wire Wire Line
+	4600 6800 4450 6800
+Wire Wire Line
+	4600 6500 4600 6800
+Wire Wire Line
+	6000 6050 5850 6050
+Wire Wire Line
+	6000 5750 6000 6050
+Wire Wire Line
+	3200 6800 3050 6800
+Wire Wire Line
+	3200 6500 3200 6800
+Wire Wire Line
+	8150 6050 8450 6050
+Wire Wire Line
+	6750 6050 7050 6050
+Wire Wire Line
+	6050 6050 6350 6050
+Wire Wire Line
+	8200 5500 8200 5750
+Wire Wire Line
+	7500 5500 7500 5750
+Wire Wire Line
+	6800 5500 6800 5750
+Wire Wire Line
+	8800 6050 8650 6050
+Wire Wire Line
+	8800 5750 8800 6050
+Wire Wire Line
+	8100 6050 7950 6050
+Wire Wire Line
+	8100 5750 8100 6050
+Wire Wire Line
+	7400 6050 7250 6050
+Wire Wire Line
+	7400 5750 7400 6050
+Wire Wire Line
+	6700 6050 6550 6050
+Wire Wire Line
+	6700 5750 6700 6050
+Wire Wire Line
+	8150 4550 8450 4550
+Wire Wire Line
+	7450 4550 7750 4550
+Wire Wire Line
+	6750 4550 7050 4550
+Wire Wire Line
+	6050 4550 6350 4550
+Wire Wire Line
+	8200 4000 8200 4250
+Wire Wire Line
+	7500 4000 7500 4250
+Wire Wire Line
+	6800 4000 6800 4250
+Wire Wire Line
+	8800 4550 8650 4550
+Wire Wire Line
+	8800 4250 8800 4550
+Wire Wire Line
+	7400 4550 7250 4550
+Wire Wire Line
+	7400 4250 7400 4550
+Wire Wire Line
+	8100 4550 7950 4550
+Wire Wire Line
+	8100 4250 8100 4550
+Wire Wire Line
+	6700 4550 6550 4550
+Wire Wire Line
+	6700 4250 6700 4550
+Wire Wire Line
+	8150 3800 8450 3800
+Wire Wire Line
+	7450 3800 7750 3800
+Wire Wire Line
+	6750 3800 7050 3800
+Wire Wire Line
+	6050 3800 6350 3800
+Wire Wire Line
+	5350 3800 5650 3800
+Wire Wire Line
+	8150 3050 8450 3050
+Wire Wire Line
+	7450 3050 7750 3050
+Wire Wire Line
+	8200 3250 8200 3500
+Wire Wire Line
+	7500 3250 7500 3500
+Wire Wire Line
+	6800 3250 6800 3500
+Wire Wire Line
+	6100 3250 6100 3500
+Wire Wire Line
+	5400 3250 5400 3500
+Wire Wire Line
+	8200 2500 8200 2750
+Wire Wire Line
+	8100 3800 7950 3800
+Wire Wire Line
+	8100 3500 8100 3800
+Wire Wire Line
+	8800 3800 8650 3800
+Wire Wire Line
+	8800 3500 8800 3800
+Wire Wire Line
+	6700 3800 6550 3800
+Wire Wire Line
+	6700 3500 6700 3800
+Wire Wire Line
+	7400 3800 7250 3800
+Wire Wire Line
+	7400 3500 7400 3800
+Wire Wire Line
+	8800 3050 8650 3050
+Wire Wire Line
+	8800 2750 8800 3050
+Wire Wire Line
+	6000 3800 5850 3800
+Wire Wire Line
+	6000 3500 6000 3800
+Wire Wire Line
+	8100 3050 7950 3050
+Wire Wire Line
+	8100 2750 8100 3050
+Text Notes 4050 6350 0    39   ~ 0
+L_Arrow
+Text Notes 4750 6350 0    39   ~ 0
+D_Arrow
+Text Notes 5450 6350 0    39   ~ 0
+R_Arrow
+Text Notes 8250 4100 0    39   ~ 0
+Enter
+Text Notes 8250 5600 0    39   ~ 0
+Arrow_Up
+Text Notes 8250 3350 0    39   ~ 0
+PgDn
+Text Notes 7550 3350 0    39   ~ 0
+DEL
+Text Notes 6850 3350 0    39   ~ 0
+\
+Text Notes 6150 3350 0    39   ~ 0
+]
+Text Notes 5450 3350 0    39   ~ 0
+[
+Text Notes 8250 2600 0    39   ~ 0
+P
+Text Notes 7550 2600 0    39   ~ 0
+O
+Text Notes 7550 4100 0    39   ~ 0
+'
+Text Notes 3350 6350 0    39   ~ 0
+R_Ctrl
+Text Notes 2650 6350 0    39   ~ 0
+Mod
+Text Notes 5450 5600 0    39   ~ 0
+R_Alt
+Text Notes 6850 5600 0    39   ~ 0
+/
+Text Notes 6850 4100 0    39   ~ 0
+;
+Text Notes 6150 4100 0    39   ~ 0
+L
+Text Notes 6150 5600 0    39   ~ 0
+.
+Wire Wire Line
+	5300 6500 5300 6800
+$Comp
+L Connector:Conn_01x02_Female J69
+U 1 1 5CF20740
+P 8550 3300
+F 0 "J69" V 8442 3112 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 8397 3112 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 8550 3300 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 8550 3300 50  0001 C CNN
+	1    8550 3300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J67
+U 1 1 5CF20D2D
+P 7800 3300
+F 0 "J67" V 7692 3112 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 7647 3112 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 7800 3300 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 7800 3300 50  0001 C CNN
+	1    7800 3300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J65
+U 1 1 5CF213CD
+P 7100 3300
+F 0 "J65" V 6992 3112 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 6947 3112 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 7100 3300 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 7100 3300 50  0001 C CNN
+	1    7100 3300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J61
+U 1 1 5CF2196B
+P 6400 3300
+F 0 "J61" V 6292 3112 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 6247 3112 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 6400 3300 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 6400 3300 50  0001 C CNN
+	1    6400 3300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J57
+U 1 1 5CF22038
+P 5700 3300
+F 0 "J57" V 5592 3112 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 5547 3112 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 5700 3300 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 5700 3300 50  0001 C CNN
+	1    5700 3300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J53
+U 1 1 5CF226E9
+P 8500 2550
+F 0 "J53" V 8392 2362 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 8347 2362 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 8500 2550 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 8500 2550 50  0001 C CNN
+	1    8500 2550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J62
+U 1 1 5CF22DEC
+P 8500 4050
+F 0 "J62" V 8392 3862 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 8347 3862 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 8500 4050 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 8500 4050 50  0001 C CNN
+	1    8500 4050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J58
+U 1 1 5CF234E2
+P 7800 4050
+F 0 "J58" V 7692 3862 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 7647 3862 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 7800 4050 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 7800 4050 50  0001 C CNN
+	1    7800 4050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J54
+U 1 1 5CF23DB5
+P 7100 4050
+F 0 "J54" V 6992 3862 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 6947 3862 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 7100 4050 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 7100 4050 50  0001 C CNN
+	1    7100 4050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J50
+U 1 1 5CF24349
+P 7850 2550
+F 0 "J50" V 7742 2362 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 7697 2362 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 7850 2550 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 7850 2550 50  0001 C CNN
+	1    7850 2550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J51
+U 1 1 5CF249D4
+P 6450 4050
+F 0 "J51" V 6342 3862 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 6297 3862 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 6450 4050 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 6450 4050 50  0001 C CNN
+	1    6450 4050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J43
+U 1 1 5CF2518E
+P 7100 2550
+F 0 "J43" V 6992 2362 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 6947 2362 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 7100 2550 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 7100 2550 50  0001 C CNN
+	1    7100 2550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J44
+U 1 1 5CF2591C
+P 5700 4050
+F 0 "J44" V 5592 3862 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 5547 3862 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 5700 4050 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 5700 4050 50  0001 C CNN
+	1    5700 4050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J38
+U 1 1 5CF25F9F
+P 6400 2550
+F 0 "J38" V 6292 2362 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 6247 2362 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 6400 2550 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 6400 2550 50  0001 C CNN
+	1    6400 2550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J39
+U 1 1 5CF2662D
+P 5000 4050
+F 0 "J39" V 4892 3862 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 4847 3862 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 5000 4050 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 5000 4050 50  0001 C CNN
+	1    5000 4050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D69
+U 1 1 5CF26D1C
+P 8550 3800
+F 0 "D69" H 8550 4005 50  0000 C CNN
+F 1 "Switching Diode" H 8550 3914 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 8550 3800 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 8550 3800 50  0001 C CNN
+F 4 "C109001" H 8550 3800 50  0001 C CNN "LCSC"
+	1    8550 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D67
+U 1 1 5CF271D3
+P 7850 3800
+F 0 "D67" H 7850 4005 50  0000 C CNN
+F 1 "Switching Diode" H 7850 3914 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 7850 3800 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 7850 3800 50  0001 C CNN
+F 4 "C109001" H 7850 3800 50  0001 C CNN "LCSC"
+	1    7850 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D65
+U 1 1 5CF27703
+P 7150 3800
+F 0 "D65" H 7150 4005 50  0000 C CNN
+F 1 "Switching Diode" H 7150 3914 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 7150 3800 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 7150 3800 50  0001 C CNN
+F 4 "C109001" H 7150 3800 50  0001 C CNN "LCSC"
+	1    7150 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D61
+U 1 1 5CF27D88
+P 6450 3800
+F 0 "D61" H 6450 4005 50  0000 C CNN
+F 1 "Switching Diode" H 6450 3914 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 6450 3800 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 6450 3800 50  0001 C CNN
+F 4 "C109001" H 6450 3800 50  0001 C CNN "LCSC"
+	1    6450 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D57
+U 1 1 5CF282FB
+P 5750 3800
+F 0 "D57" H 5750 4005 50  0000 C CNN
+F 1 "Switching Diode" H 5750 3914 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 5750 3800 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 5750 3800 50  0001 C CNN
+F 4 "C109001" H 5750 3800 50  0001 C CNN "LCSC"
+	1    5750 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D53
+U 1 1 5CF287D4
+P 8550 3050
+F 0 "D53" H 8550 3255 50  0000 C CNN
+F 1 "Switching Diode" H 8550 3164 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 8550 3050 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 8550 3050 50  0001 C CNN
+F 4 "C109001" H 8550 3050 50  0001 C CNN "LCSC"
+	1    8550 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D48
+U 1 1 5CF28E07
+P 7850 3050
+F 0 "D48" H 7850 3255 50  0000 C CNN
+F 1 "Switching Diode" H 7850 3164 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 7850 3050 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 7850 3050 50  0001 C CNN
+F 4 "C109001" H 7850 3050 50  0001 C CNN "LCSC"
+	1    7850 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D43
+U 1 1 5CF29382
+P 7150 3050
+F 0 "D43" H 7150 3255 50  0000 C CNN
+F 1 "Switching Diode" H 7150 3164 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 7150 3050 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 7150 3050 50  0001 C CNN
+F 4 "C109001" H 7150 3050 50  0001 C CNN "LCSC"
+	1    7150 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J33
+U 1 1 5CF372A8
+P 5700 2550
+F 0 "J33" V 5592 2362 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 5547 2362 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 5700 2550 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 5700 2550 50  0001 C CNN
+	1    5700 2550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J34
+U 1 1 5CF377E7
+P 4300 4050
+F 0 "J34" V 4192 3862 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 4147 3862 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 4300 4050 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 4300 4050 50  0001 C CNN
+	1    4300 4050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J28
+U 1 1 5CF37F13
+P 5000 2550
+F 0 "J28" V 4892 2362 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 4847 2362 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 5000 2550 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 5000 2550 50  0001 C CNN
+	1    5000 2550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J29
+U 1 1 5CF384F1
+P 3600 4050
+F 0 "J29" V 3492 3862 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 3447 3862 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 3600 4050 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 3600 4050 50  0001 C CNN
+	1    3600 4050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J23
+U 1 1 5CF38AA8
+P 4300 2550
+F 0 "J23" V 4192 2362 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 4147 2362 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 4300 2550 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 4300 2550 50  0001 C CNN
+	1    4300 2550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J24
+U 1 1 5CF3917B
+P 2900 4050
+F 0 "J24" V 2792 3862 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 2747 3862 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 2900 4050 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 2900 4050 50  0001 C CNN
+	1    2900 4050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J18
+U 1 1 5CF397B6
+P 3600 2550
+F 0 "J18" V 3492 2362 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 3447 2362 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 3600 2550 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 3600 2550 50  0001 C CNN
+	1    3600 2550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J19
+U 1 1 5CF39DE1
+P 5000 3300
+F 0 "J19" V 4892 3112 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 4847 3112 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 5000 3300 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 5000 3300 50  0001 C CNN
+	1    5000 3300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J13
+U 1 1 5CF3A3B9
+P 2900 2550
+F 0 "J13" V 2792 2362 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 2747 2362 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 2900 2550 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 2900 2550 50  0001 C CNN
+	1    2900 2550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J14
+U 1 1 5CF3AAEC
+P 4300 3300
+F 0 "J14" V 4192 3112 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 4147 3112 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 4300 3300 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 4300 3300 50  0001 C CNN
+	1    4300 3300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J8
+U 1 1 5CF3BFD9
+P 3600 1800
+F 0 "J8" V 3492 1612 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 3447 1612 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 3600 1800 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 3600 1800 50  0001 C CNN
+	1    3600 1800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J9
+U 1 1 5CF3C5CE
+P 3600 3300
+F 0 "J9" V 3492 3112 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 3447 3112 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 3600 3300 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 3600 3300 50  0001 C CNN
+	1    3600 3300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J3
+U 1 1 5CF3CB43
+P 2900 1800
+F 0 "J3" V 2792 1612 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 2747 1612 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 2900 1800 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 2900 1800 50  0001 C CNN
+	1    2900 1800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J4
+U 1 1 5CF3D083
+P 2900 3300
+F 0 "J4" V 2792 3112 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 2747 3112 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 2900 3300 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 2900 3300 50  0001 C CNN
+	1    2900 3300
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8200 3500 8550 3500
+Wire Wire Line
+	8650 3500 8800 3500
+Wire Wire Line
+	8100 3500 7900 3500
+Wire Wire Line
+	7800 3500 7500 3500
 $Comp
 L Device:D_Small D3
 U 1 1 5D589679
-P 2950 2450
-F 0 "D3" H 2950 2655 50  0000 C CNN
-F 1 "Switching Diode" H 2950 2564 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 2950 2450 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 2950 2450 50  0001 C CNN
-F 4 "C109001" H 2950 2450 50  0001 C CNN "LCSC"
-	1    2950 2450
+P 2950 2300
+F 0 "D3" H 2950 2505 50  0000 C CNN
+F 1 "Switching Diode" H 2950 2414 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 2950 2300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 2950 2300 50  0001 C CNN
+F 4 "C109001" H 2950 2300 50  0001 C CNN "LCSC"
+	1    2950 2300
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D8
 U 1 1 5D589AD0
-P 3650 2450
-F 0 "D8" H 3650 2655 50  0000 C CNN
-F 1 "Switching Diode" H 3650 2564 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 3650 2450 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 3650 2450 50  0001 C CNN
-F 4 "C109001" H 3650 2450 50  0001 C CNN "LCSC"
-	1    3650 2450
+P 3650 2300
+F 0 "D8" H 3650 2505 50  0000 C CNN
+F 1 "Switching Diode" H 3650 2414 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 3650 2300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 3650 2300 50  0001 C CNN
+F 4 "C109001" H 3650 2300 50  0001 C CNN "LCSC"
+	1    3650 2300
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D13
 U 1 1 5D589E9C
-P 4350 2450
-F 0 "D13" H 4350 2655 50  0000 C CNN
-F 1 "Switching Diode" H 4350 2564 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 4350 2450 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 4350 2450 50  0001 C CNN
-F 4 "C109001" H 4350 2450 50  0001 C CNN "LCSC"
-	1    4350 2450
+P 2950 3050
+F 0 "D13" H 2950 3255 50  0000 C CNN
+F 1 "Switching Diode" H 2950 3164 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 2950 3050 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 2950 3050 50  0001 C CNN
+F 4 "C109001" H 2950 3050 50  0001 C CNN "LCSC"
+	1    2950 3050
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D18
 U 1 1 5D58A27D
-P 5050 2450
-F 0 "D18" H 5050 2655 50  0000 C CNN
-F 1 "Switching Diode" H 5050 2564 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 5050 2450 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 5050 2450 50  0001 C CNN
-F 4 "C109001" H 5050 2450 50  0001 C CNN "LCSC"
-	1    5050 2450
+P 3650 3050
+F 0 "D18" H 3650 3255 50  0000 C CNN
+F 1 "Switching Diode" H 3650 3164 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 3650 3050 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 3650 3050 50  0001 C CNN
+F 4 "C109001" H 3650 3050 50  0001 C CNN "LCSC"
+	1    3650 3050
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D23
 U 1 1 5D58A7AE
-P 5750 2450
-F 0 "D23" H 5750 2655 50  0000 C CNN
-F 1 "Switching Diode" H 5750 2564 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 5750 2450 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 5750 2450 50  0001 C CNN
-F 4 "C109001" H 5750 2450 50  0001 C CNN "LCSC"
-	1    5750 2450
+P 4350 3050
+F 0 "D23" H 4350 3255 50  0000 C CNN
+F 1 "Switching Diode" H 4350 3164 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 4350 3050 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 4350 3050 50  0001 C CNN
+F 4 "C109001" H 4350 3050 50  0001 C CNN "LCSC"
+	1    4350 3050
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D28
 U 1 1 5D58AC09
-P 6450 2450
-F 0 "D28" H 6450 2655 50  0000 C CNN
-F 1 "Switching Diode" H 6450 2564 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 6450 2450 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 6450 2450 50  0001 C CNN
-F 4 "C109001" H 6450 2450 50  0001 C CNN "LCSC"
-	1    6450 2450
+P 5050 3050
+F 0 "D28" H 5050 3255 50  0000 C CNN
+F 1 "Switching Diode" H 5050 3164 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 5050 3050 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 5050 3050 50  0001 C CNN
+F 4 "C109001" H 5050 3050 50  0001 C CNN "LCSC"
+	1    5050 3050
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D33
 U 1 1 5D58E7BA
-P 7150 2450
-F 0 "D33" H 7150 2655 50  0000 C CNN
-F 1 "Switching Diode" H 7150 2564 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 7150 2450 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 7150 2450 50  0001 C CNN
-F 4 "C109001" H 7150 2450 50  0001 C CNN "LCSC"
-	1    7150 2450
+P 5750 3050
+F 0 "D33" H 5750 3255 50  0000 C CNN
+F 1 "Switching Diode" H 5750 3164 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 5750 3050 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 5750 3050 50  0001 C CNN
+F 4 "C109001" H 5750 3050 50  0001 C CNN "LCSC"
+	1    5750 3050
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D38
 U 1 1 5D58ECD0
-P 7850 2450
-F 0 "D38" H 7850 2655 50  0000 C CNN
-F 1 "Switching Diode" H 7850 2564 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 7850 2450 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 7850 2450 50  0001 C CNN
-F 4 "C109001" H 7850 2450 50  0001 C CNN "LCSC"
-	1    7850 2450
+P 6450 3050
+F 0 "D38" H 6450 3255 50  0000 C CNN
+F 1 "Switching Diode" H 6450 3164 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 6450 3050 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 6450 3050 50  0001 C CNN
+F 4 "C109001" H 6450 3050 50  0001 C CNN "LCSC"
+	1    6450 3050
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D39
 U 1 1 5D58F1C4
-P 7850 3350
-F 0 "D39" H 7850 3555 50  0000 C CNN
-F 1 "Switching Diode" H 7850 3464 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 7850 3350 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 7850 3350 50  0001 C CNN
-F 4 "C109001" H 7850 3350 50  0001 C CNN "LCSC"
-	1    7850 3350
+P 5050 4550
+F 0 "D39" H 5050 4755 50  0000 C CNN
+F 1 "Switching Diode" H 5050 4664 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 5050 4550 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 5050 4550 50  0001 C CNN
+F 4 "C109001" H 5050 4550 50  0001 C CNN "LCSC"
+	1    5050 4550
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D44
 U 1 1 5D58F993
-P 8550 3350
-F 0 "D44" H 8550 3555 50  0000 C CNN
-F 1 "Switching Diode" H 8550 3464 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 8550 3350 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 8550 3350 50  0001 C CNN
-F 4 "C109001" H 8550 3350 50  0001 C CNN "LCSC"
-	1    8550 3350
+P 5750 4550
+F 0 "D44" H 5750 4755 50  0000 C CNN
+F 1 "Switching Diode" H 5750 4664 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 5750 4550 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 5750 4550 50  0001 C CNN
+F 4 "C109001" H 5750 4550 50  0001 C CNN "LCSC"
+	1    5750 4550
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D49
 U 1 1 5D58FED9
-P 9250 3350
-F 0 "D49" H 9250 3555 50  0000 C CNN
-F 1 "Switching Diode" H 9250 3464 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 9250 3350 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 9250 3350 50  0001 C CNN
-F 4 "C109001" H 9250 3350 50  0001 C CNN "LCSC"
-	1    9250 3350
+P 6450 4550
+F 0 "D49" H 6450 4755 50  0000 C CNN
+F 1 "Switching Diode" H 6450 4664 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 6450 4550 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 6450 4550 50  0001 C CNN
+F 4 "C109001" H 6450 4550 50  0001 C CNN "LCSC"
+	1    6450 4550
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D54
 U 1 1 5D590452
-P 9950 3350
-F 0 "D54" H 9950 3555 50  0000 C CNN
-F 1 "Switching Diode" H 9950 3464 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 9950 3350 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 9950 3350 50  0001 C CNN
-F 4 "C109001" H 9950 3350 50  0001 C CNN "LCSC"
-	1    9950 3350
+P 7150 4550
+F 0 "D54" H 7150 4755 50  0000 C CNN
+F 1 "Switching Diode" H 7150 4664 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 7150 4550 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 7150 4550 50  0001 C CNN
+F 4 "C109001" H 7150 4550 50  0001 C CNN "LCSC"
+	1    7150 4550
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D58
 U 1 1 5D590972
-P 10650 3350
-F 0 "D58" H 10650 3555 50  0000 C CNN
-F 1 "Switching Diode" H 10650 3464 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 10650 3350 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 10650 3350 50  0001 C CNN
-F 4 "C109001" H 10650 3350 50  0001 C CNN "LCSC"
-	1    10650 3350
+P 7850 4550
+F 0 "D58" H 7850 4755 50  0000 C CNN
+F 1 "Switching Diode" H 7850 4664 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 7850 4550 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 7850 4550 50  0001 C CNN
+F 4 "C109001" H 7850 4550 50  0001 C CNN "LCSC"
+	1    7850 4550
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D34
 U 1 1 5D59100F
-P 7150 3350
-F 0 "D34" H 7150 3555 50  0000 C CNN
-F 1 "Switching Diode" H 7150 3464 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 7150 3350 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 7150 3350 50  0001 C CNN
-F 4 "C109001" H 7150 3350 50  0001 C CNN "LCSC"
-	1    7150 3350
+P 4350 4550
+F 0 "D34" H 4350 4755 50  0000 C CNN
+F 1 "Switching Diode" H 4350 4664 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 4350 4550 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 4350 4550 50  0001 C CNN
+F 4 "C109001" H 4350 4550 50  0001 C CNN "LCSC"
+	1    4350 4550
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D29
 U 1 1 5D591590
-P 6450 3350
-F 0 "D29" H 6450 3555 50  0000 C CNN
-F 1 "Switching Diode" H 6450 3464 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 6450 3350 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 6450 3350 50  0001 C CNN
-F 4 "C109001" H 6450 3350 50  0001 C CNN "LCSC"
-	1    6450 3350
+P 3650 4550
+F 0 "D29" H 3650 4755 50  0000 C CNN
+F 1 "Switching Diode" H 3650 4664 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 3650 4550 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 3650 4550 50  0001 C CNN
+F 4 "C109001" H 3650 4550 50  0001 C CNN "LCSC"
+	1    3650 4550
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D24
 U 1 1 5D591C5C
-P 5750 3350
-F 0 "D24" H 5750 3555 50  0000 C CNN
-F 1 "Switching Diode" H 5750 3464 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 5750 3350 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 5750 3350 50  0001 C CNN
-F 4 "C109001" H 5750 3350 50  0001 C CNN "LCSC"
-	1    5750 3350
+P 2950 4550
+F 0 "D24" H 2950 4755 50  0000 C CNN
+F 1 "Switching Diode" H 2950 4664 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 2950 4550 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 2950 4550 50  0001 C CNN
+F 4 "C109001" H 2950 4550 50  0001 C CNN "LCSC"
+	1    2950 4550
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D19
 U 1 1 5D592379
-P 5050 3350
-F 0 "D19" H 5050 3555 50  0000 C CNN
-F 1 "Switching Diode" H 5050 3464 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 5050 3350 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 5050 3350 50  0001 C CNN
-F 4 "C109001" H 5050 3350 50  0001 C CNN "LCSC"
-	1    5050 3350
+P 5050 3800
+F 0 "D19" H 5050 4005 50  0000 C CNN
+F 1 "Switching Diode" H 5050 3914 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 5050 3800 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 5050 3800 50  0001 C CNN
+F 4 "C109001" H 5050 3800 50  0001 C CNN "LCSC"
+	1    5050 3800
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D62
 U 1 1 5D594CCC
-P 11350 3350
-F 0 "D62" H 11350 3555 50  0000 C CNN
-F 1 "Switching Diode" H 11350 3464 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 11350 3350 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 11350 3350 50  0001 C CNN
-F 4 "C109001" H 11350 3350 50  0001 C CNN "LCSC"
-	1    11350 3350
+P 8550 4550
+F 0 "D62" H 8550 4755 50  0000 C CNN
+F 1 "Switching Diode" H 8550 4664 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 8550 4550 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 8550 4550 50  0001 C CNN
+F 4 "C109001" H 8550 4550 50  0001 C CNN "LCSC"
+	1    8550 4550
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D63
 U 1 1 5D5951A0
-P 11350 4250
-F 0 "D63" H 11350 4455 50  0000 C CNN
-F 1 "Switching Diode" H 11350 4364 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 11350 4250 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 11350 4250 50  0001 C CNN
-F 4 "C109001" H 11350 4250 50  0001 C CNN "LCSC"
-	1    11350 4250
+P 8550 6050
+F 0 "D63" H 8550 6255 50  0000 C CNN
+F 1 "Switching Diode" H 8550 6164 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 8550 6050 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 8550 6050 50  0001 C CNN
+F 4 "C109001" H 8550 6050 50  0001 C CNN "LCSC"
+	1    8550 6050
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D59
 U 1 1 5D5957A1
-P 10650 4250
-F 0 "D59" H 10650 4455 50  0000 C CNN
-F 1 "Switching Diode" H 10650 4364 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 10650 4250 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 10650 4250 50  0001 C CNN
-F 4 "C109001" H 10650 4250 50  0001 C CNN "LCSC"
-	1    10650 4250
+P 7850 6050
+F 0 "D59" H 7850 6255 50  0000 C CNN
+F 1 "Switching Diode" H 7850 6164 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 7850 6050 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 7850 6050 50  0001 C CNN
+F 4 "C109001" H 7850 6050 50  0001 C CNN "LCSC"
+	1    7850 6050
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D55
 U 1 1 5D595C59
-P 9950 4250
-F 0 "D55" H 9950 4455 50  0000 C CNN
-F 1 "Switching Diode" H 9950 4364 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 9950 4250 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 9950 4250 50  0001 C CNN
-F 4 "C109001" H 9950 4250 50  0001 C CNN "LCSC"
-	1    9950 4250
+P 7150 6050
+F 0 "D55" H 7150 6255 50  0000 C CNN
+F 1 "Switching Diode" H 7150 6164 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 7150 6050 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 7150 6050 50  0001 C CNN
+F 4 "C109001" H 7150 6050 50  0001 C CNN "LCSC"
+	1    7150 6050
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D50
 U 1 1 5D596167
-P 9250 4250
-F 0 "D50" H 9250 4455 50  0000 C CNN
-F 1 "Switching Diode" H 9250 4364 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 9250 4250 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 9250 4250 50  0001 C CNN
-F 4 "C109001" H 9250 4250 50  0001 C CNN "LCSC"
-	1    9250 4250
+P 6450 6050
+F 0 "D50" H 6450 6255 50  0000 C CNN
+F 1 "Switching Diode" H 6450 6164 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 6450 6050 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 6450 6050 50  0001 C CNN
+F 4 "C109001" H 6450 6050 50  0001 C CNN "LCSC"
+	1    6450 6050
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D14
 U 1 1 5D597E09
-P 4350 3350
-F 0 "D14" H 4350 3555 50  0000 C CNN
-F 1 "Switching Diode" H 4350 3464 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 4350 3350 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 4350 3350 50  0001 C CNN
-F 4 "C109001" H 4350 3350 50  0001 C CNN "LCSC"
-	1    4350 3350
+P 4350 3800
+F 0 "D14" H 4350 4005 50  0000 C CNN
+F 1 "Switching Diode" H 4350 3914 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 4350 3800 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 4350 3800 50  0001 C CNN
+F 4 "C109001" H 4350 3800 50  0001 C CNN "LCSC"
+	1    4350 3800
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	3900 3350 3750 3350
+	3900 3800 3750 3800
 $Comp
 L Device:D_Small D9
 U 1 1 5D5989B2
-P 3650 3350
-F 0 "D9" H 3650 3555 50  0000 C CNN
-F 1 "Switching Diode" H 3650 3464 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 3650 3350 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 3650 3350 50  0001 C CNN
-F 4 "C109001" H 3650 3350 50  0001 C CNN "LCSC"
-	1    3650 3350
+P 3650 3800
+F 0 "D9" H 3650 4005 50  0000 C CNN
+F 1 "Switching Diode" H 3650 3914 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 3650 3800 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 3650 3800 50  0001 C CNN
+F 4 "C109001" H 3650 3800 50  0001 C CNN "LCSC"
+	1    3650 3800
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D4
 U 1 1 5D598E25
-P 2950 3350
-F 0 "D4" H 2950 3555 50  0000 C CNN
-F 1 "Switching Diode" H 2950 3464 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 2950 3350 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 2950 3350 50  0001 C CNN
-F 4 "C109001" H 2950 3350 50  0001 C CNN "LCSC"
-	1    2950 3350
+P 2950 3800
+F 0 "D4" H 2950 4005 50  0000 C CNN
+F 1 "Switching Diode" H 2950 3914 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 2950 3800 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 2950 3800 50  0001 C CNN
+F 4 "C109001" H 2950 3800 50  0001 C CNN "LCSC"
+	1    2950 3800
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D5
 U 1 1 5D59937F
-P 2950 4250
-F 0 "D5" H 2950 4455 50  0000 C CNN
-F 1 "Switching Diode" H 2950 4364 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 2950 4250 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 2950 4250 50  0001 C CNN
-F 4 "C109001" H 2950 4250 50  0001 C CNN "LCSC"
-	1    2950 4250
+P 2950 5300
+F 0 "D5" H 2950 5505 50  0000 C CNN
+F 1 "Switching Diode" H 2950 5414 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 2950 5300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 2950 5300 50  0001 C CNN
+F 4 "C109001" H 2950 5300 50  0001 C CNN "LCSC"
+	1    2950 5300
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	3250 4250 3550 4250
+	3250 5300 3550 5300
 Wire Wire Line
-	3200 3050 3000 3050
+	3200 3500 3000 3500
 Wire Wire Line
-	2600 3050 2900 3050
+	2600 3500 2900 3500
 Wire Wire Line
-	3300 3050 3600 3050
+	3300 3500 3600 3500
 Wire Wire Line
-	3700 3050 3900 3050
+	3700 3500 3900 3500
 Wire Wire Line
-	4000 3050 4300 3050
+	4000 3500 4300 3500
 Wire Wire Line
-	4400 3050 4600 3050
+	4400 3500 4600 3500
 Wire Wire Line
-	4700 3050 5000 3050
+	4700 3500 5000 3500
 Wire Wire Line
-	5100 3050 5300 3050
+	5100 3500 5300 3500
 Wire Wire Line
-	5400 3050 5700 3050
+	2600 4250 2900 4250
 Wire Wire Line
-	5800 3050 6000 3050
+	3000 4250 3200 4250
 Wire Wire Line
-	6100 3050 6400 3050
+	3300 4250 3600 4250
 Wire Wire Line
-	6500 3050 6700 3050
+	3700 4250 3900 4250
 Wire Wire Line
-	6800 3050 7100 3050
+	4000 4250 4300 4250
 Wire Wire Line
-	7200 3050 7400 3050
+	4400 4250 4600 4250
 Wire Wire Line
-	7500 3050 7800 3050
+	4700 4250 5000 4250
 Wire Wire Line
-	7900 3050 8100 3050
+	5100 4250 5300 4250
 Wire Wire Line
-	8200 3050 8500 3050
+	5400 4250 5700 4250
 Wire Wire Line
-	8600 3050 8800 3050
+	5800 4250 6000 4250
 Wire Wire Line
-	8900 3050 9250 3050
+	6100 4250 6450 4250
 Wire Wire Line
-	9350 3050 9500 3050
+	6550 4250 6700 4250
 Wire Wire Line
-	9600 3050 9900 3050
+	6800 4250 7100 4250
 Wire Wire Line
-	10000 3050 10200 3050
+	7200 4250 7400 4250
 Wire Wire Line
-	10300 3050 10600 3050
+	7500 4250 7800 4250
 Wire Wire Line
-	10700 3050 10900 3050
+	7900 4250 8100 4250
 Wire Wire Line
-	11000 3050 11300 3050
+	8200 4250 8500 4250
 Wire Wire Line
-	11400 3050 11600 3050
+	8600 4250 8800 4250
 Wire Wire Line
-	11000 2150 11300 2150
+	6100 3500 6400 3500
 Wire Wire Line
-	11400 2150 11600 2150
+	6500 3500 6700 3500
 Wire Wire Line
-	11700 2150 12000 2150
+	6800 3500 7100 3500
 Wire Wire Line
-	12300 2150 12100 2150
+	7400 3500 7200 3500
 Wire Wire Line
-	10900 2150 10700 2150
+	6000 3500 5800 3500
 Wire Wire Line
-	6800 2150 7100 2150
+	5400 2750 5700 2750
 Wire Wire Line
-	7200 2150 7400 2150
+	5800 2750 6000 2750
 Wire Wire Line
-	7500 2150 7800 2150
+	6100 2750 6400 2750
 Wire Wire Line
-	7900 2150 8100 2150
+	6500 2750 6700 2750
 Wire Wire Line
-	8200 2150 8500 2150
+	6800 2750 7100 2750
 Wire Wire Line
-	8600 2150 8800 2150
+	7200 2750 7400 2750
 Wire Wire Line
-	8900 2150 9250 2150
+	7500 2750 7850 2750
 Wire Wire Line
-	9350 2150 9500 2150
+	7950 2750 8100 2750
 Wire Wire Line
-	9600 2150 9900 2150
+	8200 2750 8500 2750
 Wire Wire Line
-	10000 2150 10200 2150
+	8600 2750 8800 2750
 Wire Wire Line
-	10300 2150 10600 2150
+	5400 3500 5700 3500
 Wire Wire Line
-	2600 2150 2900 2150
+	2600 2000 2900 2000
 Wire Wire Line
-	3000 2150 3200 2150
+	3000 2000 3200 2000
 Wire Wire Line
-	3300 2150 3600 2150
+	3300 2000 3600 2000
 Wire Wire Line
-	3700 2150 3900 2150
+	3700 2000 3900 2000
 Wire Wire Line
-	4000 2150 4300 2150
+	2600 2750 2900 2750
 Wire Wire Line
-	4400 2150 4600 2150
+	3000 2750 3200 2750
 Wire Wire Line
-	4700 2150 5000 2150
+	3300 2750 3600 2750
 Wire Wire Line
-	5100 2150 5300 2150
+	3700 2750 3900 2750
 Wire Wire Line
-	5400 2150 5700 2150
+	4000 2750 4300 2750
 Wire Wire Line
-	5800 2150 6000 2150
+	4400 2750 4600 2750
 Wire Wire Line
-	6100 2150 6400 2150
+	4700 2750 5000 2750
 Wire Wire Line
-	6500 2150 6700 2150
+	5100 2750 5300 2750
 $Comp
 L Connector:Conn_01x02_Female J5
 U 1 1 5E2353E0
-P 2900 3750
-F 0 "J5" V 2792 3562 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 2747 3562 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 2900 3750 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 2900 3750 50  0001 C CNN
-	1    2900 3750
+P 2900 4800
+F 0 "J5" V 2792 4612 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 2747 4612 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 2900 4800 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 2900 4800 50  0001 C CNN
+	1    2900 4800
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Connector:Conn_01x02_Female J10
 U 1 1 5E23589C
-P 3600 3750
-F 0 "J10" V 3492 3562 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 3447 3562 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 3600 3750 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 3600 3750 50  0001 C CNN
-	1    3600 3750
+P 3600 4800
+F 0 "J10" V 3492 4612 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 3447 4612 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 3600 4800 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 3600 4800 50  0001 C CNN
+	1    3600 4800
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Connector:Conn_01x02_Female J15
 U 1 1 5E235D45
-P 4300 3750
-F 0 "J15" V 4192 3562 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 4147 3562 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 4300 3750 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 4300 3750 50  0001 C CNN
-	1    4300 3750
+P 4300 4800
+F 0 "J15" V 4192 4612 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 4147 4612 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 4300 4800 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 4300 4800 50  0001 C CNN
+	1    4300 4800
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Connector:Conn_01x02_Female J20
 U 1 1 5E2362C1
-P 5000 3750
-F 0 "J20" V 4892 3562 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 4847 3562 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 5000 3750 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 5000 3750 50  0001 C CNN
-	1    5000 3750
+P 5000 4800
+F 0 "J20" V 4892 4612 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 4847 4612 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 5000 4800 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 5000 4800 50  0001 C CNN
+	1    5000 4800
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Connector:Conn_01x02_Female J25
 U 1 1 5E23681B
-P 5700 3750
-F 0 "J25" V 5592 3562 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 5547 3562 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 5700 3750 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 5700 3750 50  0001 C CNN
-	1    5700 3750
+P 5700 4800
+F 0 "J25" V 5592 4612 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 5547 4612 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 5700 4800 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 5700 4800 50  0001 C CNN
+	1    5700 4800
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Connector:Conn_01x02_Female J30
 U 1 1 5E236D29
-P 6400 3750
-F 0 "J30" V 6292 3562 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 6247 3562 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 6400 3750 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 6400 3750 50  0001 C CNN
-	1    6400 3750
+P 6400 4800
+F 0 "J30" V 6292 4612 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 6247 4612 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 6400 4800 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 6400 4800 50  0001 C CNN
+	1    6400 4800
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Connector:Conn_01x02_Female J35
 U 1 1 5E23904D
-P 7100 3750
-F 0 "J35" V 6992 3562 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 6947 3562 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 7100 3750 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 7100 3750 50  0001 C CNN
-	1    7100 3750
+P 7100 4800
+F 0 "J35" V 6992 4612 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 6947 4612 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 7100 4800 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 7100 4800 50  0001 C CNN
+	1    7100 4800
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Connector:Conn_01x02_Female J40
 U 1 1 5E239641
-P 7800 3750
-F 0 "J40" V 7692 3562 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 7647 3562 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 7800 3750 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 7800 3750 50  0001 C CNN
-	1    7800 3750
+P 7800 4800
+F 0 "J40" V 7692 4612 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 7647 4612 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 7800 4800 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 7800 4800 50  0001 C CNN
+	1    7800 4800
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Connector:Conn_01x02_Female J45
 U 1 1 5E239CAC
-P 8500 3750
-F 0 "J45" V 8392 3562 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 8347 3562 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 8500 3750 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 8500 3750 50  0001 C CNN
-	1    8500 3750
+P 8500 4800
+F 0 "J45" V 8392 4612 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 8347 4612 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 8500 4800 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 8500 4800 50  0001 C CNN
+	1    8500 4800
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Connector:Conn_01x02_Female J47
 U 1 1 5E23A2FD
-P 9200 3750
-F 0 "J47" V 9092 3562 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 9047 3562 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 9200 3750 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 9200 3750 50  0001 C CNN
-	1    9200 3750
+P 6400 5550
+F 0 "J47" V 6292 5362 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 6247 5362 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 6400 5550 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 6400 5550 50  0001 C CNN
+	1    6400 5550
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Connector:Conn_01x02_Female J55
 U 1 1 5E23A95B
-P 9900 3750
-F 0 "J55" V 9792 3562 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 9747 3562 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 9900 3750 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 9900 3750 50  0001 C CNN
-	1    9900 3750
+P 7100 5550
+F 0 "J55" V 6992 5362 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 6947 5362 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 7100 5550 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 7100 5550 50  0001 C CNN
+	1    7100 5550
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Connector:Conn_01x02_Female J59
 U 1 1 5E23AED5
-P 10600 3750
-F 0 "J59" V 10492 3562 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 10447 3562 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 10600 3750 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 10600 3750 50  0001 C CNN
-	1    10600 3750
+P 7800 5550
+F 0 "J59" V 7692 5362 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 7647 5362 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 7800 5550 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 7800 5550 50  0001 C CNN
+	1    7800 5550
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Connector:Conn_01x02_Female J63
 U 1 1 5E23C388
-P 11300 3750
-F 0 "J63" V 11192 3562 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 11147 3562 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 11300 3750 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 11300 3750 50  0001 C CNN
-	1    11300 3750
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:Conn_01x02_Female J6
-U 1 1 5E240845
-P 2900 4650
-F 0 "J6" V 2792 4462 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 2747 4462 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 2900 4650 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 2900 4650 50  0001 C CNN
-	1    2900 4650
+P 8500 5550
+F 0 "J63" V 8392 5362 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 8347 5362 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 8500 5550 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 8500 5550 50  0001 C CNN
+	1    8500 5550
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Connector:Conn_01x02_Female J11
 U 1 1 5E240F39
-P 3600 4650
-F 0 "J11" V 3492 4462 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 3447 4462 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 3600 4650 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 3600 4650 50  0001 C CNN
-	1    3600 4650
+P 3600 5550
+F 0 "J11" V 3492 5362 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 3447 5362 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 3600 5550 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 3600 5550 50  0001 C CNN
+	1    3600 5550
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Connector:Conn_01x02_Female J16
 U 1 1 5E2414A2
-P 4300 4650
-F 0 "J16" V 4192 4462 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 4147 4462 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 4300 4650 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 4300 4650 50  0001 C CNN
-	1    4300 4650
+P 4300 5550
+F 0 "J16" V 4192 5362 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 4147 5362 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 4300 5550 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 4300 5550 50  0001 C CNN
+	1    4300 5550
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Connector:Conn_01x02_Female J21
 U 1 1 5E24196B
-P 5000 4650
-F 0 "J21" V 4892 4462 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 4847 4462 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 5000 4650 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 5000 4650 50  0001 C CNN
-	1    5000 4650
+P 5000 5550
+F 0 "J21" V 4892 5362 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 4847 5362 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 5000 5550 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 5000 5550 50  0001 C CNN
+	1    5000 5550
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Connector:Conn_01x02_Female J26
 U 1 1 5E241D73
-P 5700 4650
-F 0 "J26" V 5592 4462 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 5547 4462 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 5700 4650 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 5700 4650 50  0001 C CNN
-	1    5700 4650
+P 5700 5550
+F 0 "J26" V 5592 5362 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 5547 5362 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 5700 5550 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 5700 5550 50  0001 C CNN
+	1    5700 5550
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Connector:Conn_01x02_Female J31
 U 1 1 5E242299
-P 6400 4650
-F 0 "J31" V 6292 4462 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 6247 4462 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 6400 4650 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 6400 4650 50  0001 C CNN
-	1    6400 4650
+P 2900 6300
+F 0 "J31" V 2792 6112 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 2747 6112 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 2900 6300 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 2900 6300 50  0001 C CNN
+	1    2900 6300
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Connector:Conn_01x02_Female J36
 U 1 1 5E24274A
-P 7100 4650
-F 0 "J36" V 6992 4462 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 6947 4462 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 7100 4650 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 7100 4650 50  0001 C CNN
-	1    7100 4650
+P 3600 6300
+F 0 "J36" V 3492 6112 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 3447 6112 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 3600 6300 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 3600 6300 50  0001 C CNN
+	1    3600 6300
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Connector:Conn_01x02_Female J41
 U 1 1 5E24798A
-P 7800 4650
-F 0 "J41" V 7692 4462 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 7647 4462 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 7800 4650 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 7800 4650 50  0001 C CNN
-	1    7800 4650
+P 4300 6300
+F 0 "J41" V 4192 6112 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 4147 6112 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 4300 6300 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 4300 6300 50  0001 C CNN
+	1    4300 6300
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Connector:Conn_01x02_Female J46
 U 1 1 5E247E03
-P 8500 4650
-F 0 "J46" V 8392 4462 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 8347 4462 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 8500 4650 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 8500 4650 50  0001 C CNN
-	1    8500 4650
+P 5000 6300
+F 0 "J46" V 4892 6112 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 4847 6112 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 5000 6300 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 5000 6300 50  0001 C CNN
+	1    5000 6300
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Connector:Conn_01x02_Female J48
 U 1 1 5E2484C9
-P 9200 4650
-F 0 "J48" V 9092 4462 50  0000 R CNN
-F 1 "Conn_01x02_Female" V 9047 4462 50  0001 R CNN
-F 2 "Kailh:Kaihl_socket_CPG151101S11" H 9200 4650 50  0001 C CNN
-F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 9200 4650 50  0001 C CNN
-	1    9200 4650
+P 5700 6300
+F 0 "J48" V 5592 6112 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 5547 6112 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 5700 6300 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 5700 6300 50  0001 C CNN
+	1    5700 6300
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D10
 U 1 1 5E24A4DC
-P 3650 4250
-F 0 "D10" H 3650 4455 50  0000 C CNN
-F 1 "Switching Diode" H 3650 4364 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 3650 4250 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 3650 4250 50  0001 C CNN
-F 4 "C109001" H 3650 4250 50  0001 C CNN "LCSC"
-	1    3650 4250
+P 3650 5300
+F 0 "D10" H 3650 5505 50  0000 C CNN
+F 1 "Switching Diode" H 3650 5414 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 3650 5300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 3650 5300 50  0001 C CNN
+F 4 "C109001" H 3650 5300 50  0001 C CNN "LCSC"
+	1    3650 5300
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D15
 U 1 1 5E24A972
-P 4350 4250
-F 0 "D15" H 4350 4455 50  0000 C CNN
-F 1 "Switching Diode" H 4350 4364 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 4350 4250 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 4350 4250 50  0001 C CNN
-F 4 "C109001" H 4350 4250 50  0001 C CNN "LCSC"
-	1    4350 4250
+P 4350 5300
+F 0 "D15" H 4350 5505 50  0000 C CNN
+F 1 "Switching Diode" H 4350 5414 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 4350 5300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 4350 5300 50  0001 C CNN
+F 4 "C109001" H 4350 5300 50  0001 C CNN "LCSC"
+	1    4350 5300
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D6
 U 1 1 5E24AF49
-P 2950 5150
-F 0 "D6" H 2950 5355 50  0000 C CNN
-F 1 "Switching Diode" H 2950 5264 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 2950 5150 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 2950 5150 50  0001 C CNN
-F 4 "C109001" H 2950 5150 50  0001 C CNN "LCSC"
-	1    2950 5150
+P 2950 6050
+F 0 "D6" H 2950 6255 50  0000 C CNN
+F 1 "Switching Diode" H 2950 6164 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 2950 6050 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 2950 6050 50  0001 C CNN
+F 4 "C109001" H 2950 6050 50  0001 C CNN "LCSC"
+	1    2950 6050
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D11
 U 1 1 5E24B5B2
-P 3650 5150
-F 0 "D11" H 3650 5355 50  0000 C CNN
-F 1 "Switching Diode" H 3650 5264 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 3650 5150 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 3650 5150 50  0001 C CNN
-F 4 "C109001" H 3650 5150 50  0001 C CNN "LCSC"
-	1    3650 5150
+P 3650 6050
+F 0 "D11" H 3650 6255 50  0000 C CNN
+F 1 "Switching Diode" H 3650 6164 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 3650 6050 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 3650 6050 50  0001 C CNN
+F 4 "C109001" H 3650 6050 50  0001 C CNN "LCSC"
+	1    3650 6050
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D16
 U 1 1 5E24B9BF
-P 4350 5150
-F 0 "D16" H 4350 5355 50  0000 C CNN
-F 1 "Switching Diode" H 4350 5264 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 4350 5150 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 4350 5150 50  0001 C CNN
-F 4 "C109001" H 4350 5150 50  0001 C CNN "LCSC"
-	1    4350 5150
+P 4350 6050
+F 0 "D16" H 4350 6255 50  0000 C CNN
+F 1 "Switching Diode" H 4350 6164 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 4350 6050 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 4350 6050 50  0001 C CNN
+F 4 "C109001" H 4350 6050 50  0001 C CNN "LCSC"
+	1    4350 6050
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D21
 U 1 1 5E24BF67
-P 5050 5150
-F 0 "D21" H 5050 5355 50  0000 C CNN
-F 1 "Switching Diode" H 5050 5264 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 5050 5150 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 5050 5150 50  0001 C CNN
-F 4 "C109001" H 5050 5150 50  0001 C CNN "LCSC"
-	1    5050 5150
+P 5050 6050
+F 0 "D21" H 5050 6255 50  0000 C CNN
+F 1 "Switching Diode" H 5050 6164 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 5050 6050 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 5050 6050 50  0001 C CNN
+F 4 "C109001" H 5050 6050 50  0001 C CNN "LCSC"
+	1    5050 6050
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D26
 U 1 1 5E24C51F
-P 5750 5150
-F 0 "D26" H 5750 5355 50  0000 C CNN
-F 1 "Switching Diode" H 5750 5264 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 5750 5150 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 5750 5150 50  0001 C CNN
-F 4 "C109001" H 5750 5150 50  0001 C CNN "LCSC"
-	1    5750 5150
+P 5750 6050
+F 0 "D26" H 5750 6255 50  0000 C CNN
+F 1 "Switching Diode" H 5750 6164 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 5750 6050 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 5750 6050 50  0001 C CNN
+F 4 "C109001" H 5750 6050 50  0001 C CNN "LCSC"
+	1    5750 6050
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D31
 U 1 1 5E24CB6E
-P 6450 5150
-F 0 "D31" H 6450 5355 50  0000 C CNN
-F 1 "Switching Diode" H 6450 5264 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 6450 5150 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 6450 5150 50  0001 C CNN
-F 4 "C109001" H 6450 5150 50  0001 C CNN "LCSC"
-	1    6450 5150
+P 2950 6800
+F 0 "D31" H 2950 7005 50  0000 C CNN
+F 1 "Switching Diode" H 2950 6914 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 2950 6800 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 2950 6800 50  0001 C CNN
+F 4 "C109001" H 2950 6800 50  0001 C CNN "LCSC"
+	1    2950 6800
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D36
 U 1 1 5E24D2B3
-P 7150 5150
-F 0 "D36" H 7150 5355 50  0000 C CNN
-F 1 "Switching Diode" H 7150 5264 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 7150 5150 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 7150 5150 50  0001 C CNN
-F 4 "C109001" H 7150 5150 50  0001 C CNN "LCSC"
-	1    7150 5150
+P 3650 6800
+F 0 "D36" H 3650 7005 50  0000 C CNN
+F 1 "Switching Diode" H 3650 6914 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 3650 6800 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 3650 6800 50  0001 C CNN
+F 4 "C109001" H 3650 6800 50  0001 C CNN "LCSC"
+	1    3650 6800
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D20
 U 1 1 5E24D80A
-P 5050 4250
-F 0 "D20" H 5050 4455 50  0000 C CNN
-F 1 "Switching Diode" H 5050 4364 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 5050 4250 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 5050 4250 50  0001 C CNN
-F 4 "C109001" H 5050 4250 50  0001 C CNN "LCSC"
-	1    5050 4250
+P 5050 5300
+F 0 "D20" H 5050 5505 50  0000 C CNN
+F 1 "Switching Diode" H 5050 5414 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 5050 5300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 5050 5300 50  0001 C CNN
+F 4 "C109001" H 5050 5300 50  0001 C CNN "LCSC"
+	1    5050 5300
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D25
 U 1 1 5E24DD4E
-P 5750 4250
-F 0 "D25" H 5750 4455 50  0000 C CNN
-F 1 "Switching Diode" H 5750 4364 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 5750 4250 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 5750 4250 50  0001 C CNN
-F 4 "C109001" H 5750 4250 50  0001 C CNN "LCSC"
-	1    5750 4250
+P 5750 5300
+F 0 "D25" H 5750 5505 50  0000 C CNN
+F 1 "Switching Diode" H 5750 5414 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 5750 5300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 5750 5300 50  0001 C CNN
+F 4 "C109001" H 5750 5300 50  0001 C CNN "LCSC"
+	1    5750 5300
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D30
 U 1 1 5E24E29D
-P 6450 4250
-F 0 "D30" H 6450 4455 50  0000 C CNN
-F 1 "Switching Diode" H 6450 4364 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 6450 4250 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 6450 4250 50  0001 C CNN
-F 4 "C109001" H 6450 4250 50  0001 C CNN "LCSC"
-	1    6450 4250
+P 6450 5300
+F 0 "D30" H 6450 5505 50  0000 C CNN
+F 1 "Switching Diode" H 6450 5414 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 6450 5300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 6450 5300 50  0001 C CNN
+F 4 "C109001" H 6450 5300 50  0001 C CNN "LCSC"
+	1    6450 5300
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D35
 U 1 1 5E24E91E
-P 7150 4250
-F 0 "D35" H 7150 4455 50  0000 C CNN
-F 1 "Switching Diode" H 7150 4364 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 7150 4250 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 7150 4250 50  0001 C CNN
-F 4 "C109001" H 7150 4250 50  0001 C CNN "LCSC"
-	1    7150 4250
+P 7150 5300
+F 0 "D35" H 7150 5505 50  0000 C CNN
+F 1 "Switching Diode" H 7150 5414 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 7150 5300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 7150 5300 50  0001 C CNN
+F 4 "C109001" H 7150 5300 50  0001 C CNN "LCSC"
+	1    7150 5300
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	7450 4250 7750 4250
+	7450 5300 7750 5300
 $Comp
 L Device:D_Small D40
 U 1 1 5E2544F7
-P 7850 4250
-F 0 "D40" H 7850 4455 50  0000 C CNN
-F 1 "Switching Diode" H 7850 4364 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 7850 4250 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 7850 4250 50  0001 C CNN
-F 4 "C109001" H 7850 4250 50  0001 C CNN "LCSC"
-	1    7850 4250
+P 7850 5300
+F 0 "D40" H 7850 5505 50  0000 C CNN
+F 1 "Switching Diode" H 7850 5414 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 7850 5300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 7850 5300 50  0001 C CNN
+F 4 "C109001" H 7850 5300 50  0001 C CNN "LCSC"
+	1    7850 5300
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D45
 U 1 1 5E25495F
-P 8550 4250
-F 0 "D45" H 8550 4455 50  0000 C CNN
-F 1 "Switching Diode" H 8550 4364 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 8550 4250 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 8550 4250 50  0001 C CNN
-F 4 "C109001" H 8550 4250 50  0001 C CNN "LCSC"
-	1    8550 4250
+P 8550 5300
+F 0 "D45" H 8550 5505 50  0000 C CNN
+F 1 "Switching Diode" H 8550 5414 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 8550 5300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 8550 5300 50  0001 C CNN
+F 4 "C109001" H 8550 5300 50  0001 C CNN "LCSC"
+	1    8550 5300
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D41
 U 1 1 5E254F8A
-P 7850 5150
-F 0 "D41" H 7850 5355 50  0000 C CNN
-F 1 "Switching Diode" H 7850 5264 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 7850 5150 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 7850 5150 50  0001 C CNN
-F 4 "C109001" H 7850 5150 50  0001 C CNN "LCSC"
-	1    7850 5150
+P 4350 6800
+F 0 "D41" H 4350 7005 50  0000 C CNN
+F 1 "Switching Diode" H 4350 6914 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 4350 6800 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 4350 6800 50  0001 C CNN
+F 4 "C109001" H 4350 6800 50  0001 C CNN "LCSC"
+	1    4350 6800
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D46
 U 1 1 5E255494
-P 8550 5150
-F 0 "D46" H 8550 5355 50  0000 C CNN
-F 1 "Switching Diode" H 8550 5264 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 8550 5150 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 8550 5150 50  0001 C CNN
-F 4 "C109001" H 8550 5150 50  0001 C CNN "LCSC"
-	1    8550 5150
+P 5050 6800
+F 0 "D46" H 5050 7005 50  0000 C CNN
+F 1 "Switching Diode" H 5050 6914 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 5050 6800 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 5050 6800 50  0001 C CNN
+F 4 "C109001" H 5050 6800 50  0001 C CNN "LCSC"
+	1    5050 6800
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D51
 U 1 1 5E255A0D
-P 9250 5150
-F 0 "D51" H 9250 5355 50  0000 C CNN
-F 1 "Switching Diode" H 9250 5264 50  0000 C CNN
-F 2 "Diode_SMD:D_0805_2012Metric" V 9250 5150 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 9250 5150 50  0001 C CNN
-F 4 "C109001" H 9250 5150 50  0001 C CNN "LCSC"
-	1    9250 5150
+P 5750 6800
+F 0 "D51" H 5750 7005 50  0000 C CNN
+F 1 "Switching Diode" H 5750 6914 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric" V 5750 6800 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/LIZ-Elec-CD4148WSP_C109001.pdf" V 5750 6800 50  0001 C CNN
+F 4 "C109001" H 5750 6800 50  0001 C CNN "LCSC"
+	1    5750 6800
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	9600 3950 9900 3950
+	6800 5750 7100 5750
 Wire Wire Line
-	10000 3950 10200 3950
+	7200 5750 7400 5750
 Wire Wire Line
-	6000 3950 5800 3950
+	6000 5000 5800 5000
 Wire Wire Line
-	6100 3950 6400 3950
+	6100 5000 6400 5000
 Wire Wire Line
-	6500 3950 6700 3950
+	6500 5000 6700 5000
 Wire Wire Line
-	6800 3950 7100 3950
+	6800 5000 7100 5000
 Wire Wire Line
-	7200 3950 7400 3950
+	7200 5000 7400 5000
 Wire Wire Line
-	7500 3950 7800 3950
+	7500 5000 7800 5000
 Wire Wire Line
-	7900 3950 8100 3950
+	7900 5000 8100 5000
 Wire Wire Line
-	8200 3950 8500 3950
+	8200 5000 8500 5000
 Wire Wire Line
-	8600 3950 8800 3950
+	8600 5000 8800 5000
 Wire Wire Line
-	8900 3950 9200 3950
+	6100 5750 6400 5750
 Wire Wire Line
-	9300 3950 9500 3950
+	6500 5750 6700 5750
 Wire Wire Line
-	9300 4850 9500 4850
+	5800 6500 6000 6500
 Wire Wire Line
-	8900 4850 9200 4850
+	5400 6500 5700 6500
 Wire Wire Line
-	5800 4850 6000 4850
+	5800 5750 6000 5750
 Wire Wire Line
-	6100 4850 6400 4850
+	2600 6500 2900 6500
 Wire Wire Line
-	6500 4850 6700 4850
+	3000 6500 3200 6500
 Wire Wire Line
-	6800 4850 7100 4850
+	3300 6500 3600 6500
 Wire Wire Line
-	7200 4850 7400 4850
+	3700 6500 3900 6500
 Wire Wire Line
-	7500 4850 7800 4850
+	4000 6500 4300 6500
 Wire Wire Line
-	7900 4850 8100 4850
+	4400 6500 4600 6500
 Wire Wire Line
-	8200 4850 8500 4850
+	4700 6500 5000 6500
 Wire Wire Line
-	8600 4850 8800 4850
+	5100 6500 5300 6500
 Wire Wire Line
-	2600 3950 2900 3950
+	2600 5000 2900 5000
 Wire Wire Line
-	3000 3950 3200 3950
+	3000 5000 3200 5000
 Wire Wire Line
-	3300 3950 3600 3950
+	3300 5000 3600 5000
 Wire Wire Line
-	3700 3950 3900 3950
+	3700 5000 3900 5000
 Wire Wire Line
-	4000 3950 4300 3950
+	4000 5000 4300 5000
 Wire Wire Line
-	4400 3950 4600 3950
+	4400 5000 4600 5000
 Wire Wire Line
-	4700 3950 5000 3950
+	4700 5000 5000 5000
 Wire Wire Line
-	5100 3950 5300 3950
+	5100 5000 5300 5000
 Wire Wire Line
-	5400 3950 5700 3950
+	5400 5000 5700 5000
 Wire Wire Line
-	2600 4850 2900 4850
+	2600 5750 2900 5750
 Wire Wire Line
-	3000 4850 3200 4850
+	3000 5750 3200 5750
 Wire Wire Line
-	3300 4850 3600 4850
+	3300 5750 3600 5750
 Wire Wire Line
-	3700 4850 3900 4850
+	3700 5750 3900 5750
 Wire Wire Line
-	4000 4850 4300 4850
+	4000 5750 4300 5750
 Wire Wire Line
-	4400 4850 4600 4850
+	4400 5750 4600 5750
 Wire Wire Line
-	4700 4850 5000 4850
+	4700 5750 5000 5750
 Wire Wire Line
-	5100 4850 5300 4850
+	5100 5750 5300 5750
 Wire Wire Line
-	5400 4850 5700 4850
+	5400 5750 5700 5750
 Wire Wire Line
-	10250 3350 10250 4250
+	7450 6050 7750 6050
 Wire Wire Line
-	10250 4250 10550 4250
-Connection ~ 10250 4250
+	7500 5750 7800 5750
 Wire Wire Line
-	10250 4250 10250 6150
+	7900 5750 8100 5750
 Wire Wire Line
-	10300 3950 10600 3950
+	8200 5750 8500 5750
 Wire Wire Line
-	10700 3950 10900 3950
-Wire Wire Line
-	11000 3950 11300 3950
-Wire Wire Line
-	11400 3950 11600 3950
-Text GLabel 850  1000 0    50   Input ~ 0
-ROW_0
-Text GLabel 850  1900 0    50   Input ~ 0
-ROW_1
-Text GLabel 850  2800 0    50   Input ~ 0
-ROW_2
-Text GLabel 850  3700 0    50   Input ~ 0
-ROW_3
-Text GLabel 850  4600 0    50   Input ~ 0
-ROW_4
-Text GLabel 2550 6150 3    50   Input ~ 0
+	8600 5750 8800 5750
+Text GLabel 2550 7050 3    50   Input ~ 0
 COLUMN_0
-Text GLabel 3250 6150 3    50   Input ~ 0
+Text GLabel 3250 7050 3    50   Input ~ 0
 COLUMN_1
-Text GLabel 3950 6150 3    50   Input ~ 0
+Text GLabel 3950 7050 3    50   Input ~ 0
 COLUMN_2
-Text GLabel 4650 6150 3    50   Input ~ 0
+Text GLabel 4650 7050 3    50   Input ~ 0
 COLUMN_3
-Text GLabel 5350 6150 3    50   Input ~ 0
+Text GLabel 5350 7050 3    50   Input ~ 0
 COLUMN_4
-Text GLabel 6050 6150 3    50   Input ~ 0
+Text GLabel 6050 7050 3    50   Input ~ 0
 COLUMN_5
-Text GLabel 6750 6150 3    50   Input ~ 0
+Text GLabel 6750 7050 3    50   Input ~ 0
 COLUMN_6
-Text GLabel 7450 6150 3    50   Input ~ 0
+Text GLabel 7450 7050 3    50   Input ~ 0
 COLUMN_7
-Text GLabel 9550 6150 3    50   Input ~ 0
-COLUMN_10
-Text GLabel 10250 6150 3    50   Input ~ 0
-COLUMN_11
-Text GLabel 10950 6150 3    50   Input ~ 0
-COLUMN_12
-Text GLabel 11650 6150 3    50   Input ~ 0
-COLUMN_13
-Text GLabel 12350 6150 3    50   Input ~ 0
-COLUMN_14
-Text GLabel 13050 6150 3    50   Input ~ 0
-COLUMN_15
-Text GLabel 8150 6150 3    50   Input ~ 0
+Text GLabel 8150 7050 3    50   Input ~ 0
 COLUMN_8
-Text GLabel 8850 6150 3    50   Input ~ 0
-COLUMN_9
+Text Notes 7550 5600 0    39   ~ 0
+R_Shift
+Text GLabel 2400 4750 0    50   Input ~ 0
+ROW_5
+Text GLabel 2400 5500 0    50   Input ~ 0
+ROW_6
+Text GLabel 2400 6250 0    50   Input ~ 0
+ROW_7
+Wire Wire Line
+	2400 1000 2600 1000
+Connection ~ 2600 1000
+Wire Wire Line
+	2600 1000 3300 1000
+Connection ~ 3300 1000
+Wire Wire Line
+	3300 1000 4000 1000
+Connection ~ 4000 1000
+Wire Wire Line
+	4000 1000 4700 1000
+Connection ~ 4700 1000
+Wire Wire Line
+	4700 1000 5400 1000
+Connection ~ 5400 1000
+Wire Wire Line
+	5400 1000 6100 1000
+Connection ~ 6100 1000
+Wire Wire Line
+	6100 1000 6800 1000
+Connection ~ 6800 1000
+Wire Wire Line
+	6800 1000 7500 1000
+Connection ~ 7500 1000
+Wire Wire Line
+	7500 1000 8200 1000
+Wire Wire Line
+	2400 2500 2600 2500
+Connection ~ 2600 2500
+Wire Wire Line
+	2600 2500 3300 2500
+Connection ~ 3300 2500
+Wire Wire Line
+	3300 2500 4000 2500
+Connection ~ 4000 2500
+Wire Wire Line
+	4000 2500 4700 2500
+Connection ~ 4700 2500
+Wire Wire Line
+	4700 2500 5400 2500
+Connection ~ 5400 2500
+Wire Wire Line
+	5400 2500 6100 2500
+Connection ~ 6100 2500
+Wire Wire Line
+	6100 2500 6800 2500
+Connection ~ 6800 2500
+Wire Wire Line
+	6800 2500 7500 2500
+Connection ~ 7500 2500
+Wire Wire Line
+	7500 2500 8200 2500
+Wire Wire Line
+	2400 4000 2600 4000
+Connection ~ 2600 4000
+Wire Wire Line
+	2600 4000 3300 4000
+Connection ~ 3300 4000
+Wire Wire Line
+	3300 4000 4000 4000
+Connection ~ 4000 4000
+Wire Wire Line
+	4000 4000 4700 4000
+Connection ~ 4700 4000
+Wire Wire Line
+	4700 4000 5400 4000
+Connection ~ 5400 4000
+Wire Wire Line
+	5400 4000 6100 4000
+Connection ~ 6100 4000
+Wire Wire Line
+	6100 4000 6800 4000
+Connection ~ 6800 4000
+Wire Wire Line
+	6800 4000 7500 4000
+Connection ~ 7500 4000
+Wire Wire Line
+	7500 4000 8200 4000
+Wire Wire Line
+	2400 4750 2600 4750
+Connection ~ 2600 4750
+Wire Wire Line
+	2600 4750 3300 4750
+Connection ~ 3300 4750
+Wire Wire Line
+	3300 4750 4000 4750
+Connection ~ 4000 4750
+Wire Wire Line
+	4000 4750 4700 4750
+Connection ~ 4700 4750
+Wire Wire Line
+	4700 4750 5400 4750
+Connection ~ 5400 4750
+Wire Wire Line
+	5400 4750 6100 4750
+Connection ~ 6100 4750
+Wire Wire Line
+	6100 4750 6800 4750
+Connection ~ 6800 4750
+Wire Wire Line
+	6800 4750 7500 4750
+Connection ~ 7500 4750
+Wire Wire Line
+	7500 4750 8200 4750
+Wire Wire Line
+	2400 6250 2600 6250
+Connection ~ 2600 6250
+Wire Wire Line
+	2600 6250 3300 6250
+Connection ~ 3300 6250
+Wire Wire Line
+	3300 6250 4000 6250
+Connection ~ 4000 6250
+Wire Wire Line
+	4000 6250 4700 6250
+Connection ~ 4700 6250
+Wire Wire Line
+	4700 6250 5400 6250
+Wire Wire Line
+	2550 7050 2550 6800
+Wire Wire Line
+	2550 5300 2550 4550
+Wire Wire Line
+	3250 7050 3250 6800
+Wire Wire Line
+	3250 5300 3250 4550
+Wire Wire Line
+	3950 7050 3950 6800
+Wire Wire Line
+	3950 5300 3950 4550
+Wire Wire Line
+	4650 7050 4650 6800
+Wire Wire Line
+	4650 5300 4650 4550
+Wire Wire Line
+	5350 7050 5350 6800
+Wire Wire Line
+	5350 5300 5350 4550
+Wire Wire Line
+	6050 5300 6050 4550
+Wire Wire Line
+	6750 5300 6750 4550
+Wire Wire Line
+	7450 5300 7450 4550
+Wire Wire Line
+	8150 5300 8150 4550
+Wire Wire Line
+	2400 1750 2600 1750
+Connection ~ 2600 1750
+Wire Wire Line
+	2600 1750 3300 1750
+Connection ~ 3300 1750
+Wire Wire Line
+	3300 1750 4000 1750
+Connection ~ 4000 1750
+Wire Wire Line
+	4000 1750 4700 1750
+Connection ~ 4700 1750
+Wire Wire Line
+	4700 1750 5400 1750
+Connection ~ 5400 1750
+Wire Wire Line
+	5400 1750 6100 1750
+Connection ~ 6100 1750
+Wire Wire Line
+	6100 1750 6800 1750
+Connection ~ 6800 1750
+Wire Wire Line
+	6800 1750 7500 1750
+Connection ~ 7500 1750
+Wire Wire Line
+	7500 1750 8200 1750
+Wire Wire Line
+	8150 1550 8150 2300
+Connection ~ 8150 2300
+Wire Wire Line
+	8150 2300 8150 3050
+Wire Wire Line
+	7450 1550 7450 2300
+Connection ~ 7450 2300
+Wire Wire Line
+	7450 2300 7450 3050
+Wire Wire Line
+	6750 1550 6750 2300
+Connection ~ 6750 2300
+Wire Wire Line
+	6750 2300 6750 3050
+Wire Wire Line
+	6050 1550 6050 2300
+Connection ~ 6050 2300
+Wire Wire Line
+	6050 2300 6050 3050
+Wire Wire Line
+	5350 1550 5350 2300
+Connection ~ 5350 2300
+Wire Wire Line
+	5350 2300 5350 3050
+Wire Wire Line
+	4650 1550 4650 2300
+Connection ~ 4650 2300
+Wire Wire Line
+	4650 2300 4650 3050
+Wire Wire Line
+	3950 1550 3950 2300
+Connection ~ 3950 2300
+Wire Wire Line
+	3950 2300 3950 3050
+Wire Wire Line
+	3250 1550 3250 2300
+Connection ~ 3250 2300
+Wire Wire Line
+	3250 2300 3250 3050
+Wire Wire Line
+	2550 1550 2550 2300
+Connection ~ 2550 2300
+Wire Wire Line
+	2550 2300 2550 3050
+Wire Wire Line
+	2400 3250 2600 3250
+Connection ~ 2600 3250
+Wire Wire Line
+	2600 3250 3300 3250
+Connection ~ 3300 3250
+Wire Wire Line
+	3300 3250 4000 3250
+Connection ~ 4000 3250
+Wire Wire Line
+	4000 3250 4700 3250
+Connection ~ 4700 3250
+Wire Wire Line
+	4700 3250 5400 3250
+Connection ~ 5400 3250
+Wire Wire Line
+	5400 3250 6100 3250
+Connection ~ 6100 3250
+Wire Wire Line
+	6100 3250 6800 3250
+Connection ~ 6800 3250
+Wire Wire Line
+	6800 3250 7500 3250
+Connection ~ 7500 3250
+Wire Wire Line
+	7500 3250 8200 3250
+Wire Wire Line
+	8150 3050 8150 3800
+Connection ~ 8150 3050
+Connection ~ 8150 4550
+Connection ~ 8150 3800
+Wire Wire Line
+	8150 3800 8150 4550
+Wire Wire Line
+	7450 3050 7450 3800
+Connection ~ 7450 3050
+Connection ~ 7450 4550
+Connection ~ 7450 3800
+Wire Wire Line
+	7450 3800 7450 4550
+Wire Wire Line
+	6750 3050 6750 3800
+Connection ~ 6750 3050
+Connection ~ 6750 4550
+Connection ~ 6750 3800
+Wire Wire Line
+	6750 3800 6750 4550
+Wire Wire Line
+	6050 3050 6050 3800
+Connection ~ 6050 3050
+Connection ~ 6050 4550
+Connection ~ 6050 3800
+Wire Wire Line
+	6050 3800 6050 4550
+Wire Wire Line
+	5350 3050 5350 3800
+Connection ~ 5350 3050
+Connection ~ 5350 4550
+Connection ~ 5350 3800
+Wire Wire Line
+	5350 3800 5350 4550
+Wire Wire Line
+	4650 3050 4650 3800
+Connection ~ 4650 3050
+Connection ~ 4650 4550
+Connection ~ 4650 3800
+Wire Wire Line
+	4650 3800 4650 4550
+Wire Wire Line
+	3950 3050 3950 3800
+Connection ~ 3950 3050
+Connection ~ 3950 4550
+Connection ~ 3950 3800
+Wire Wire Line
+	3950 3800 3950 4550
+Wire Wire Line
+	3250 3050 3250 3800
+Connection ~ 3250 3050
+Connection ~ 3250 4550
+Connection ~ 3250 3800
+Wire Wire Line
+	3250 3800 3250 4550
+Wire Wire Line
+	2550 3050 2550 3800
+Connection ~ 2550 3050
+Connection ~ 2550 4550
+Connection ~ 2550 3800
+Wire Wire Line
+	2550 3800 2550 4550
+$Comp
+L Connector:Conn_01x02_Female J6
+U 1 1 5E240845
+P 2900 5550
+F 0 "J6" V 2792 5362 50  0000 R CNN
+F 1 "Conn_01x02_Female" V 2747 5362 50  0001 R CNN
+F 2 "Kailh:Kaihl_socket_CPG151101S11" H 2900 5550 50  0001 C CNN
+F 3 "https://www.aliexpress.com/item/32951252318.html?spm=a2g0o.detail.1000014.4.45cd20e9pmV7B5&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.136569.000000000000000&scm_id=1007.13338.136569.000000000000000&scm-url=1007.13338.136569.000000000000000&pvid=fdc045a8-a433-45a3-9db2-571af0ca75f3" H 2900 5550 50  0001 C CNN
+	1    2900 5550
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2400 5500 2600 5500
+Connection ~ 2600 5500
+Wire Wire Line
+	2600 5500 3300 5500
+Connection ~ 3300 5500
+Wire Wire Line
+	3300 5500 4000 5500
+Connection ~ 4000 5500
+Wire Wire Line
+	4000 5500 4700 5500
+Connection ~ 4700 5500
+Wire Wire Line
+	4700 5500 5400 5500
+Connection ~ 5400 5500
+Wire Wire Line
+	5400 5500 6100 5500
+Connection ~ 6100 5500
+Wire Wire Line
+	6100 5500 6800 5500
+Connection ~ 6800 5500
+Wire Wire Line
+	6800 5500 7500 5500
+Connection ~ 7500 5500
+Wire Wire Line
+	7500 5500 8200 5500
+Wire Wire Line
+	8150 6050 8150 5300
+Connection ~ 8150 5300
+Wire Wire Line
+	7450 6050 7450 5300
+Connection ~ 7450 5300
+Wire Wire Line
+	6750 6050 6750 5300
+Connection ~ 6750 5300
+Wire Wire Line
+	6050 6050 6050 5300
+Connection ~ 6050 5300
+Wire Wire Line
+	5350 5300 5350 6050
+Connection ~ 5350 5300
+Connection ~ 5350 6800
+Connection ~ 5350 6050
+Wire Wire Line
+	5350 6050 5350 6800
+Wire Wire Line
+	4650 5300 4650 6050
+Connection ~ 4650 5300
+Connection ~ 4650 6800
+Connection ~ 4650 6050
+Wire Wire Line
+	4650 6050 4650 6800
+Wire Wire Line
+	3950 5300 3950 6050
+Connection ~ 3950 5300
+Connection ~ 3950 6800
+Connection ~ 3950 6050
+Wire Wire Line
+	3950 6050 3950 6800
+Wire Wire Line
+	3250 5300 3250 6050
+Connection ~ 3250 5300
+Connection ~ 3250 6800
+Connection ~ 3250 6050
+Wire Wire Line
+	3250 6050 3250 6800
+Wire Wire Line
+	2550 5300 2550 6050
+Connection ~ 2550 5300
+Connection ~ 2550 6800
+Connection ~ 2550 6050
+Wire Wire Line
+	2550 6050 2550 6800
+Wire Wire Line
+	6050 6050 6050 7050
+Connection ~ 6050 6050
+Wire Wire Line
+	6750 7000 6750 6050
+Connection ~ 6750 6050
+Wire Wire Line
+	7450 6050 7450 7050
+Connection ~ 7450 6050
+Wire Wire Line
+	8150 6050 8150 7050
+Connection ~ 8150 6050
 $EndSCHEMATC
