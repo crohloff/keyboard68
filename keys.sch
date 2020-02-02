@@ -2945,8 +2945,6 @@ Wire Wire Line
 Wire Wire Line
 	6050 6050 6050 7050
 Connection ~ 6050 6050
-Wire Wire Line
-	6750 7000 6750 6050
 Connection ~ 6750 6050
 Wire Wire Line
 	7450 6050 7450 7050
@@ -2954,4 +2952,6 @@ Connection ~ 7450 6050
 Wire Wire Line
 	8150 6050 8150 7050
 Connection ~ 8150 6050
+Wire Wire Line
+	6750 6050 6750 7050
 $EndSCHEMATC
