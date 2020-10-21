@@ -13,7 +13,7 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text GLabel 3550 1400 0    50   Input ~ 0
+Text GLabel 1950 1400 0    50   Input ~ 0
 LED_DATA
 $Comp
 L LED:WS2812B D86
@@ -4039,8 +4039,6 @@ Wire Wire Line
 	4750 1700 4750 1750
 Wire Wire Line
 	4350 1400 4450 1400
-Wire Wire Line
-	3550 1400 3750 1400
 $Comp
 L LED:WS2812B D70
 U 1 1 6138C37C
@@ -4206,4 +4204,72 @@ F 3 "~" H 9050 8150 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 Connection ~ 9050 8150
+$Comp
+L Logic_LevelTranslator:SN74LVC1T45DBV U4
+U 1 1 5F93B2C8
+P 2400 1400
+F 0 "U4" H 2750 1800 50  0000 L CNN
+F 1 "SN74LVC1T45DBVT" H 2700 1100 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23-6" H 2400 950 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/Texas-Instruments-TI-SN74LVC1T45DBVT_C116653.pdf" H 1500 750 50  0001 C CNN
+	1    2400 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R11
+U 1 1 5F946E06
+P 1850 1600
+F 0 "R11" V 1950 1600 50  0000 C CNN
+F 1 "100k" V 1750 1600 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" H 1850 1600 50  0001 C CNN
+F 3 "~" H 1850 1600 50  0001 C CNN
+	1    1850 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0160
+U 1 1 5F947445
+P 2400 1850
+F 0 "#PWR0160" H 2400 1600 50  0001 C CNN
+F 1 "GND" H 2405 1677 50  0000 C CNN
+F 2 "" H 2400 1850 50  0001 C CNN
+F 3 "" H 2400 1850 50  0001 C CNN
+	1    2400 1850
+	1    0    0    -1  
+$EndComp
+Text GLabel 2500 750  2    50   Input ~ 0
+LED_POWER
+Text GLabel 2300 750  0    50   Input ~ 0
+VDD_nRF
+Wire Wire Line
+	1950 1600 2000 1600
+Wire Wire Line
+	2400 1800 2400 1850
+Wire Wire Line
+	1950 1400 2000 1400
+Wire Wire Line
+	2500 750  2500 1000
+Wire Wire Line
+	2300 750  2300 950 
+Wire Wire Line
+	1750 1600 1500 1600
+Wire Wire Line
+	1500 1600 1500 950 
+Wire Wire Line
+	1500 950  2300 950 
+Connection ~ 2300 950 
+Wire Wire Line
+	2300 950  2300 1000
+Wire Wire Line
+	2800 1400 3750 1400
+Text Notes 1500 650  0    50   ~ 0
+Level-Shifter
+Wire Notes Line
+	3450 500  3450 2100
+Wire Notes Line
+	3450 2100 1450 2100
+Wire Notes Line
+	1450 2100 1450 500 
+Wire Notes Line
+	1450 500  3450 500 
 $EndSCHEMATC
