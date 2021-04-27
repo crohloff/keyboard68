@@ -4,4 +4,6 @@
   (lib (name usb_type_c)(type Legacy)(uri ${KIPRJMOD}/custom_symbols/usb_type_c.lib)(options "")(descr ""))
   (lib (name mt3608)(type Legacy)(uri ${KIPRJMOD}/custom_symbols/mt3608.lib)(options "")(descr ""))
   (lib (name nRF52840_module)(type Legacy)(uri ${KIPRJMOD}/custom_symbols/nRF52840_module.lib)(options "")(descr ""))
+  (lib (name keyboard_68-rescue)(type Legacy)(uri ${KIPRJMOD}/keyboard_68-rescue.lib)(options "")(descr ""))
+  (lib (name bus_m.2_socket_b)(type Legacy)(uri ${KIPRJMOD}/custom_symbols/bus_m.2_socket_b.lib)(options "")(descr ""))
 )
